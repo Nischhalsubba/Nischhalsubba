@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "" src="https://i.imgur.com/st4M9Qr.jpg" alt="cover" />
+</div>
+
 # Hello :wave:, I am Nischhal 😃 
 - A User Interface Desigenr :sparkles:
 - A Web Developer :computer:
@@ -36,9 +40,8 @@ I develop applications using industry best practices in addition to what I have 
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/nischhal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/t_sreevishnu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://www.behance.net/nischhal"><img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=Behance&logoColor=white"></img></a>
-<a target="_blank" href="https://dribbble.com/Nischhal"><img src="https://img.shields.io/badge/-Dribbble-ea4c89?style=for-the-badge&logo=Dribbble&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/nischhalsubba/"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 
 <br>
 </p>
