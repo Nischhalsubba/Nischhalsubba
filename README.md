@@ -1,63 +1,53 @@
-<div align="center">
-<img width="100%" height = "" src="https://i.imgur.com/st4M9Qr.jpg" alt="cover" />
-</div>
+# Hello :wave:, I am Nischhal 😃 
+- A User Interface Desigenr :sparkles:
+- A Web Developer :computer:
+- Tech Nerd who love building computer :new_moon_with_face:
+- A compositional styles designer 🐍
+- A full time Astrophile :rocket: :milky_way:
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+# About me
+UX/UI Designer with many experiences to discover, improve, and expand the user experience. I also possess professional knowledge in Logos, Illustrations, Web Platforms, Landing Pages, Responsive, Mobile Apps, and Game Graphic Design.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nischhalsubba.Nischhalsubba)
+I have great development experience, a strong aptitude for learning and creating, and manage various projects for multiple clients while consistently meeting deadlines.
 
-</p>
-<div size='20px'> Hi! My name is Nischhal Raj Subba. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+I develop applications using industry best practices in addition to what I have learned over the years accomplishing development, tailoring design, and architecting user experience.
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+# Technologies used
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on My personal portfolio website which is based on wordpress.
-
-- 🌱 I’m currently learning Information architecture,Visual Communication 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Freelancing Opportunites, Open Source, Sass Application, Design overall 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=xd&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=pug&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pug.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Nischhalsubba?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/nischhal'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/@iamnischhal'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@nischhalsubba'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.behance.net/nischhal'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Nischhalsubba'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg"></code>
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Invision_icon-icons.com_66743.png"></code>
+<code><img height="40" width="40" src="https://www.axure.com/wp-content/uploads/2019/04/logo-black.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+# My Github stats
+![Nischhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nischhalsubba&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&theme=default" />
-</a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
+
+<p>Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/nischhal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/t_sreevishnu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://www.behance.net/nischhal"><img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=Behance&logoColor=white"></img></a>
+<a target="_blank" href="https://dribbble.com/Nischhal"><img src="https://img.shields.io/badge/-Dribbble-ea4c89?style=for-the-badge&logo=Dribbble&logoColor=white"></img></a>
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+</p>
+
+------
+
+Credit: [Nischhal-ux](https://github.com/Nischhalsubba)
+
+Last Edited on: 04/04/2022
