@@ -3,7 +3,7 @@
 </div>
 
 # Hello :wave:, I am Nischhal 😃 
-- A User Interface Desigenr :sparkles:
+- A User Interface Designer :sparkles:
 - A Web Developer :computer:
 - Tech Nerd who love building computer :new_moon_with_face:
 - A compositional styles designer 🐍
