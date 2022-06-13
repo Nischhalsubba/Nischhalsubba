@@ -10,11 +10,11 @@
 - A full time Astrophile :rocket: :milky_way:
 
 # About me
-UX/UI Designer with many experiences to discover, improve, and expand the user experience. I also possess professional knowledge in Logos, Illustrations, Web Platforms, Landing Pages, Responsive, Mobile Apps, and Game Graphic Design.
+Experienced UX/UI Designer with the knowledge to discover, improve, and expand the user experience. Additionally, I possess professional expertise in logo and illustration design, web platforms, landing pages, responsive design, mobile apps, and game graphic design.
 
-I have great development experience, a strong aptitude for learning and creating, and manage various projects for multiple clients while consistently meeting deadlines.
+With extensive development experience, I'm capable of learning, creating, and managing countless projects for many clients without missing deadlines.
 
-I develop applications using industry best practices in addition to what I have learned over the years accomplishing development, tailoring design, and architecting user experience.
+My experience in developing, tailored design, and architecting user experience is enhanced by learning from industry best practices.
 
 # Technologies used
 
