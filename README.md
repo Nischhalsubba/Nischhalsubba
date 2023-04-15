@@ -40,7 +40,7 @@ Here are some of the tools and technologies that I use on a regular basis:
 
 ## Portfolio
 
-Check out some of my design and development work on [my website](https://www.example.com). 
+Check out some of my design and development work on [my website](https://nsubba.com.np/). 
 
 ### UI/UX Design
 
