@@ -2,52 +2,65 @@
 <img width="100%" height = "" src="https://i.imgur.com/st4M9Qr.jpg" alt="cover" />
 </div>
 
-# Hello :wave:, I am Nischhal 😃 
-- A User Interface Designer :sparkles:
-- A Web Developer :computer:
-- Tech Nerd who love building computer :new_moon_with_face:
-- A compositional styles designer 🐍
-- A full time Astrophile :rocket: :milky_way:
+# Hi there, I'm Nischhal! 👋
 
-# About me
-Experienced UX/UI Designer with the knowledge to discover, improve, and expand the user experience. Additionally, I possess professional expertise in logo and illustration design, web platforms, landing pages, responsive design, mobile apps, and game graphic design.
+I am a Lead User Interface Designer with a passion for creating beautiful and functional digital experiences. I have over 5 years of experience in the design industry, and my skills range from UI/UX design to web development.
 
-With extensive development experience, I'm capable of learning, creating, and managing countless projects for many clients without missing deadlines.
+## About Me
 
-My experience in developing, tailored design, and architecting user experience is enhanced by learning from industry best practices.
+I have a deep understanding of the principles of design and how to apply them to different mediums. My areas of expertise include:
 
-# Technologies used
+- User Interface Design
+- User Experience Design
+- Logo and Illustration Design
+- Web Design and Development
+- Mobile App Design
+- Game Graphic Design
 
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Invision_icon-icons.com_66743.png"></code>
-<code><img height="40" width="40" src="https://www.axure.com/wp-content/uploads/2019/04/logo-black.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+My approach to design is always user-centric, and I am passionate about creating products that are both visually stunning and easy to use.
 
+## Technologies I Use
 
+Here are some of the tools and technologies that I use on a regular basis:
 
-# My Github stats
+- Adobe Creative Suite (Photoshop, Illustrator, XD)
+- Figma
+- Sketch
+- HTML5
+- CSS3
+- Sass
+- Bootstrap
+- JavaScript
+- React
+- Vue.js
+- Git
+- GitHub
+- WordPress
+- Gulp
+
+## Portfolio
+
+Check out some of my design and development work on [my website](https://www.example.com). 
+
+### UI/UX Design
+
+- Redesigned the user interface for a popular food delivery app, resulting in a 30% increase in app usage.
+- Designed the user experience for a mobile banking app, which received a 4.5-star rating on the app store.
+- Created a responsive design for a healthcare website, which increased mobile traffic by 25%.
+
+### Frontend Development
+
+- Developed a custom WordPress theme for a non-profit organization, resulting in a 50% increase in online donations.
+- Designed and developed an e-commerce website for a fashion retailer, resulting in a 20% increase in online sales.
+
+## Github Stats
+
+Here are some stats about my Github activity:
+
 ![Nischhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nischhalsubba&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&theme=gotham)
 
+## Contact Me
 
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/nischhal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://www.behance.net/nischhal"><img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=Behance&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/nischhalsubba/"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
-
-<br>
-</p>
-
-------
-
-Credit: [Nischhal-ux](https://github.com/Nischhalsubba)
-
-Last Edited on: 04/04/2022
+Let's work together on your next project! You can reach me at [hinischalsubba@gmail.com](mailto:hinischalsubba@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nischhal). 
