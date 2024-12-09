@@ -1,66 +1,79 @@
+```md
 <div align="center">
-<img width="100%" height = "" src="https://i.imgur.com/st4M9Qr.jpg" alt="cover" />
+  <img width="100%" src="https://i.imgur.com/st4M9Qr.jpg" alt="Nischhal Raj Subba - Lead UI/UX Designer" />
 </div>
 
-# Hi there, I'm Nischhal! 👋
+# Hi there, I'm Nischhal Raj Subba! 👋
 
-I am a Lead User Interface Designer with a passion for creating beautiful and functional digital experiences. I have over 5 years of experience in the design industry, and my skills range from UI/UX design to web development.
+I am a **Lead UI/UX Designer** with over 5 years of experience in creating innovative, user-centric, and visually stunning digital experiences. My mission is to design products that solve real problems while ensuring an engaging user experience.
+
+---
 
 ## About Me
 
-I have a deep understanding of the principles of design and how to apply them to different mediums. My areas of expertise include:
+I specialize in the following areas of design:
 
-- User Interface Design
-- User Experience Design
-- Logo and Illustration Design
-- Web Design and Development
-- Mobile App Design
-- Game Graphic Design
+- **User Interface (UI) Design**
+- **User Experience (UX) Design**
+- **Logo and Illustration Design**
+- **Web and Mobile App Design**
+- **Game Graphic Design**
 
-My approach to design is always user-centric, and I am passionate about creating products that are both visually stunning and easy to use.
+My approach to design is rooted in understanding user needs and aligning them with business goals. I believe in creating products that are not only functional but also aesthetically delightful.
 
-## Technologies I Use
+---
 
-Here are some of the tools and technologies that I use on a regular basis:
+## Technologies & Tools I Use
 
-- Adobe Creative Suite (Photoshop, Illustrator, XD)
-- Figma
-- Sketch
-- HTML5
-- CSS3
-- Sass
-- Bootstrap
-- JavaScript
-- React
-- Vue.js
-- Git
-- GitHub
-- WordPress
-- Gulp
+- **Design Tools**: Figma, Adobe XD, Photoshop, Illustrator, Sketch
+- **Frontend Technologies**: HTML5, CSS3, Sass, Bootstrap, JavaScript
+- **Frameworks**: React, Vue.js
+- **CMS & Workflow**: WordPress, Git, GitHub, Gulp
 
-## Portfolio
+---
 
-Check out some of my design and development work on [my website](https://nsubba.com.np/). 
+## Portfolio & Social Links
 
-### UI/UX Design
+Explore my design work and connect with me on these platforms:
 
-- Redesigned the user interface for a popular food delivery app, resulting in a 30% increase in app usage.
-- Designed the user experience for a mobile banking app, which received a 4.5-star rating on the app store.
-- Created a responsive design for a healthcare website, which increased mobile traffic by 25%.
+- [UXcel](https://app.uxcel.com/ux/nischhal)  
+- [LinkedIn](https://www.linkedin.com/in/nischhal/)  
+- [Pinterest](https://www.pinterest.com/nischhalsubba/)  
+- [Behance](https://www.behance.net/nischhal)  
+- [Dribbble](https://dribbble.com/Nischhal)  
+- [Instagram](https://www.instagram.com/nischhalsubba/)  
 
-### Frontend Development
+---
 
-- Developed a custom WordPress theme for a non-profit organization, resulting in a 50% increase in online donations.
-- Designed and developed an e-commerce website for a fashion retailer, resulting in a 20% increase in online sales.
+## Featured Work
 
-## Github Stats
+### UI/UX Design  
+- Redesigned a food delivery app, increasing user engagement by 30%.  
+- Developed the UX for a mobile banking app, earning a 4.5-star rating on app stores.  
+- Created a responsive design for a healthcare website, boosting mobile traffic by 25%.
 
-Here are some stats about my Github activity:
+### Frontend Development  
+- Built a custom WordPress theme for a non-profit, resulting in a 50% increase in donations.  
+- Designed and developed an e-commerce site, driving a 20% increase in sales.
 
-![Nischhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nischhalsubba&hide=issues&show_icons=true&theme=gotham)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&theme=gotham)
+## GitHub Stats  
 
-## Contact Me
+📊 **My GitHub Activity**:  
+![Nischhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nischhalsubba&hide=issues&show_icons=true&theme=gotham)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&theme=gotham)  
 
-Let's work together on your next project! You can reach me at [hinischalsubba@gmail.com](mailto:hinischalsubba@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nischhal). 
+---
+
+## Contact Me  
+
+Let's work together on your next project! You can reach me at:  
+📧 [hinischalsubba@gmail.com](mailto:hinischalsubba@gmail.com)  
+
+---  
+
+## Why Work With Me?
+
+By combining creativity, technical expertise, and a user-first approach, I deliver impactful designs that make a difference. Let’s build something amazing together!  
+```
