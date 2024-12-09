@@ -1,38 +1,43 @@
 <div align="center">
-  <img width="100%" src="https://i.imgur.com/st4M9Qr.jpg" alt="Nischhal Raj Subba - Lead UI/UX Designer" />
+  <img width="100%" src="https://i.imgur.com/st4M9Qr.jpg" alt="Nischhal Raj Subba - Product Designer" />
 </div>
 
 # Hi there, I'm Nischhal Raj Subba! 👋
 
-**Lead UI/UX Designer** with over 5 years of experience creating innovative, user-focused digital products. I specialize in crafting intuitive designs that balance aesthetics and functionality, solving real-world problems through design.
+I’m a **Product Designer** with over 5 years of experience turning ideas into impactful, user-centered digital products. My expertise spans the entire product design lifecycle, from research and ideation to high-fidelity prototyping and development collaboration.
 
 ---
 
 ## ✨ About Me
 
-- **Expertise**:  
-  UI/UX Design | Web & Mobile App Design | Logo & Illustration Design | Game Graphic Design
-- **Focus**: User-first design approach, aligning business goals with impactful solutions.
+- **Specializations**:  
+  User-Centered Design | End-to-End Product Development | UX Strategy | Design Systems  
+- **Approach**: I believe in blending user empathy with business goals to create designs that solve problems and deliver measurable results.  
 - **Tools & Technologies**:  
-  Figma, Adobe XD, Photoshop, Illustrator, HTML5, CSS3, JavaScript, React, WordPress
+  Figma, Adobe XD, Photoshop, Illustrator, HTML5, CSS3, React, WordPress  
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Projects
 
-- [Zapp Customer App](https://play.google.com/store/apps/details?id=com.zappcustomer) *(Designed during my tenure at Gurzu)*
-- [ESR Tech Website Redesign](https://esrtech.io/) *(Redesigned while working at ESR)*
-- [Jewel Trek Website](https://jeweltrek.com/) *(Designed during my time at ESR)*
+- <a href="https://play.google.com/store/apps/details?id=com.zappcustomer" target="_blank">Zapp Customer App</a>  
+  *Designed during my tenure at Gurzu, improving user experience for customer logistics.*  
 
-For a comprehensive list of my projects, please visit my [LinkedIn Projects Page](https://www.linkedin.com/in/nischhal/details/projects/).
+- <a href="https://esrtech.io/" target="_blank">ESR Tech Website Redesign</a>  
+  *Redesigned while working at ESR, aligning visuals with the company’s tech-focused identity.*  
+
+- <a href="https://jeweltrek.com/" target="_blank">Jewel Trek Website</a>  
+  *Designed an intuitive user experience for a premium travel and trekking platform.*  
+
+- For a comprehensive list of my projects, visit my <a href="https://www.linkedin.com/in/nischhal/details/projects/" target="_blank">LinkedIn Projects Page</a>.  
 
 ---
 
 ## 🚀 Achievements
 
-- **Top Performer** on [UXcel](https://app.uxcel.com/ux/nischhal) for advanced design certifications.
-- Over **50,000 downloads** for a fintech mobile app I designed.
-- Reduced SaaS development time by **40%** with a custom design system.
+- **UXcel Top Performer**: Recognized for completing advanced design certifications.  
+- Increased mobile app adoption by **50,000+ downloads** with a fintech app redesign.  
+- Reduced SaaS design-to-development cycle by **40%** through a custom design system.  
 
 ---
 
@@ -45,16 +50,16 @@ For a comprehensive list of my projects, please visit my [LinkedIn Projects Page
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nischhal/)
-- [Instagram](https://www.instagram.com/nischhalsubba/)
-- [Pinterest](https://www.pinterest.com/nischhalsubba/)
-- [Behance](https://www.behance.net/nischhal)
-- [Dribbble](https://dribbble.com/Nischhal)
+- <a href="https://www.linkedin.com/in/nischhal/" target="_blank">LinkedIn</a>  
+- <a href="https://www.instagram.com/nischhalsubba/" target="_blank">Instagram</a>  
+- <a href="https://www.pinterest.com/nischhalsubba/" target="_blank">Pinterest</a>  
+- <a href="https://www.behance.net/nischhal" target="_blank">Behance</a>  
+- <a href="https://dribbble.com/Nischhal" target="_blank">Dribbble</a>  
 
-📧 Email: [hinischalsubba@gmail.com](mailto:hinischalsubba@gmail.com)
+📧 Email: <a href="mailto:hinischalsubba@gmail.com" target="_blank">hinischalsubba@gmail.com</a>
 
 ---
 
 ## Why Work With Me?
 
-I combine creativity, technical expertise, and a user-first approach to deliver impactful designs that solve real problems. Let's create something extraordinary together!
+As a Product Designer, I bring a balance of creativity, analytical thinking, and a user-first mindset to every project. My goal is to create products that not only solve problems but also inspire and delight users. Let’s work together to bring your ideas to life!
