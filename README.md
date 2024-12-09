@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <img width="100%" src="https://i.imgur.com/st4M9Qr.jpg" alt="Nischhal Raj Subba - Lead UI/UX Designer" />
 </div>
