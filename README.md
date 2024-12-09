@@ -23,7 +23,7 @@ I’m a **Product Designer** with over 5 years of experience turning ideas into 
 > **Note**: To open links in a new tab, use `Ctrl + Click` (Windows) or `Cmd + Click` (Mac).
 
 - [Zapp Customer App](https://play.google.com/store/apps/details?id=com.zappcustomer)  
-  *Designed during my tenure at Gurzu, enhancing user experience for customer logistics.*  
+  *Designed during my tenure at Gurzu; achieved over 5,000 downloads on Google Play Store.*  
 
 - [ESR Tech Website Redesign](https://esrtech.io/)  
   *Redesigned while working at ESR, aligning visuals with the company’s tech-focused identity.*  
@@ -37,11 +37,13 @@ I’m a **Product Designer** with over 5 years of experience turning ideas into 
 
 ## 🚀 Achievements
 
-- **Top Performer** on [UXcel](https://app.uxcel.com/ux/nischhal) for advanced design certifications.  
-- Scored in the **98th percentile** on the [Figma Assessment](https://app.uxcel.com/assessment-report/9LLX1DMP) by Uxcel.  
-- Achieved a score of **97/100** on the [UX Research Assessment](https://app.uxcel.com/assessment-report/8ZPJIFGX), outperforming 97% of test takers.  
-- Completed multiple Uxcel courses, including [3D Design Foundations](https://app.uxcel.com/certificates/DF9XLYX9LNPF) and [UX Design Patterns with Checklist Design](https://app.uxcel.com/certificates/NJ7HQ3C9BHFK).  
-- Increased mobile app adoption by **50,000+ downloads** with a fintech app redesign.  
+- **#1 Global Ranking** on [Uxcel Designer Rankings](https://uxcel.com/designer-rankings).  
+- **Uxcel Top Performer**:  
+  - Scored in the **98th percentile** on the [Figma Assessment](https://app.uxcel.com/assessment-report/9LLX1DMP).  
+  - Achieved a score of **97/100** on the [UX Research Assessment](https://app.uxcel.com/assessment-report/8ZPJIFGX), outperforming 97% of test takers.  
+  - Completed multiple Uxcel courses, including [3D Design Foundations](https://app.uxcel.com/certificates/DF9XLYX9LNPF) and [UX Design Patterns with Checklist Design](https://app.uxcel.com/certificates/NJ7HQ3C9BHFK).  
+
+- Played a key role in the **Zapp Customer App**, which surpassed 5,000 downloads.  
 - Reduced SaaS design-to-development cycle by **40%** through a custom design system.  
 
 ---
