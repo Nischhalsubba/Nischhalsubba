@@ -75,4 +75,3 @@ Let's work together on your next project! You can reach me at:
 ## Why Work With Me?
 
 By combining creativity, technical expertise, and a user-first approach, I deliver impactful designs that make a difference. Let’s build something amazing together!  
-```
