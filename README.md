@@ -8,52 +8,50 @@
 
 ---
 
-## ✨ About Me  
+## ✨ About Me
 
 - **Expertise**:  
-  UI/UX Design | Web & Mobile App Design | Logo & Illustration Design | Game Graphic Design  
-- **Focus**: User-first design approach, aligning business goals with impactful solutions.  
-- **Tools & Tech**:  
-  Figma, Adobe XD, Photoshop, Illustrator, HTML5, CSS3, JavaScript, React, WordPress  
+  UI/UX Design | Web & Mobile App Design | Logo & Illustration Design | Game Graphic Design
+- **Focus**: User-first design approach, aligning business goals with impactful solutions.
+- **Tools & Technologies**:  
+  Figma, Adobe XD, Photoshop, Illustrator, HTML5, CSS3, JavaScript, React, WordPress
 
 ---
 
-## 🌟 Featured Work  
+## 🌟 Featured Work
 
-- [Dota 2 Event Website](https://www.behance.net/gallery/123456789/Dota-2-Event-Website)  
-- [Landing Page Design](https://www.behance.net/gallery/121418673/Landing-page-design)  
-- [Hamro | Rebranding](https://www.behance.net/gallery/123123123/Hamro-Rebranding)  
-- [Social Media Manager App](https://www.behance.net/gallery/987654321/Social-Media-Manager-App)  
-- [ezdesign Landing Page](https://www.behance.net/gallery/876543210/ezdesign-Landing-Page)  
+- [Zapp Customer App](https://play.google.com/store/apps/details?id=com.zappcustomer) *(Designed during my tenure at Gurzu)*
+- [ESR Tech Website Redesign](https://esrtech.io/) *(Redesigned while working at ESR)*
+- [Jewel Trek Website](https://jeweltrek.com/) *(Designed during my time at ESR)*
 
-For more, visit my [Behance](https://www.behance.net/nischhal) or [Dribbble](https://dribbble.com/Nischhal).  
+For a comprehensive list of my projects, please visit my [LinkedIn Projects Page](https://www.linkedin.com/in/nischhal/details/projects/).
 
 ---
 
-## 🚀 Achievements  
+## 🚀 Achievements
 
-- **Top Performer** on [UXcel](https://app.uxcel.com/ux/nischhal) for advanced design certifications.  
-- Over **50,000 downloads** for a fintech mobile app I designed.  
-- Reduced SaaS development time by **40%** with a custom design system.  
+- **Top Performer** on [UXcel](https://app.uxcel.com/ux/nischhal) for advanced design certifications.
+- Over **50,000 downloads** for a fintech mobile app I designed.
+- Reduced SaaS development time by **40%** with a custom design system.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 ![Nischhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nischhalsubba&hide=issues&show_icons=true&theme=gotham)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&theme=gotham)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&theme=gotham)
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nischhal/)  
-- [Instagram](https://www.instagram.com/nischhalsubba/)  
-- [Pinterest](https://www.pinterest.com/nischhalsubba/)  
-- [Behance](https://www.behance.net/nischhal)  
-- [Dribbble](https://dribbble.com/Nischhal)  
+- [LinkedIn](https://www.linkedin.com/in/nischhal/)
+- [Instagram](https://www.instagram.com/nischhalsubba/)
+- [Pinterest](https://www.pinterest.com/nischhalsubba/)
+- [Behance](https://www.behance.net/nischhal)
+- [Dribbble](https://dribbble.com/Nischhal)
 
-📧 Email: [hinischalsubba@gmail.com](mailto:hinischalsubba@gmail.com)  
+📧 Email: [hinischalsubba@gmail.com](mailto:hinischalsubba@gmail.com)
 
 ---
 
