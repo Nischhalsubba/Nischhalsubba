@@ -4,13 +4,13 @@
 
 # Hi there, I'm Nischhal Raj Subba! 👋
 
-I am a **Lead UI/UX Designer** with over 5 years of experience in creating innovative, user-centric, and visually stunning digital experiences. My mission is to design products that solve real problems while ensuring an engaging user experience.
+I am a **Lead UI/UX Designer** with over 5 years of experience creating user-centric, innovative, and visually stunning digital experiences. My passion lies in solving complex problems through thoughtful design, ensuring a seamless and delightful user experience.
 
 ---
 
 ## About Me
 
-I specialize in the following areas of design:
+I specialize in:
 
 - **User Interface (UI) Design**
 - **User Experience (UX) Design**
@@ -18,16 +18,16 @@ I specialize in the following areas of design:
 - **Web and Mobile App Design**
 - **Game Graphic Design**
 
-My approach to design is rooted in understanding user needs and aligning them with business goals. I believe in creating products that are not only functional but also aesthetically delightful.
+I focus on understanding user needs and aligning them with business goals to create products that leave a lasting impact.
 
 ---
 
 ## Technologies & Tools I Use
 
-- **Design Tools**: Figma, Adobe XD, Photoshop, Illustrator, Sketch
-- **Frontend Technologies**: HTML5, CSS3, Sass, Bootstrap, JavaScript
-- **Frameworks**: React, Vue.js
-- **CMS & Workflow**: WordPress, Git, GitHub, Gulp
+- **Design Tools**: Figma, Adobe XD, Photoshop, Illustrator, Sketch  
+- **Frontend Technologies**: HTML5, CSS3, Sass, Bootstrap, JavaScript  
+- **Frameworks**: React, Vue.js  
+- **CMS & Workflow**: WordPress, Git, GitHub, Gulp  
 
 ---
 
@@ -35,7 +35,7 @@ My approach to design is rooted in understanding user needs and aligning them wi
 
 Explore my design work and connect with me on these platforms:
 
-- [UXcel](https://app.uxcel.com/ux/nischhal)  
+- [UXcel Profile](https://app.uxcel.com/ux/nischhal)  
 - [LinkedIn](https://www.linkedin.com/in/nischhal/)  
 - [Pinterest](https://www.pinterest.com/nischhalsubba/)  
 - [Behance](https://www.behance.net/nischhal)  
@@ -47,13 +47,37 @@ Explore my design work and connect with me on these platforms:
 ## Featured Work
 
 ### UI/UX Design  
-- Redesigned a food delivery app, increasing user engagement by 30%.  
-- Developed the UX for a mobile banking app, earning a 4.5-star rating on app stores.  
-- Created a responsive design for a healthcare website, boosting mobile traffic by 25%.
+**[Food Delivery App Redesign](https://www.behance.net/gallery/123456789/Food-Delivery-App)**  
+![Food Delivery App](https://via.placeholder.com/600x300?text=Food+Delivery+App+Redesign)  
+- Redesigned the UI/UX of a food delivery app, boosting user engagement by 30%.  
+
+**[Mobile Banking App UX](https://www.behance.net/gallery/987654321/Mobile-Banking-App)**  
+![Mobile Banking App](https://via.placeholder.com/600x300?text=Mobile+Banking+App+UX)  
+- Designed the UX for a mobile banking app, achieving a 4.5-star rating on the app store.  
+
+**[Healthcare Website Redesign](https://www.behance.net/gallery/123123123/Healthcare-Website-Redesign)**  
+![Healthcare Website](https://via.placeholder.com/600x300?text=Healthcare+Website+Redesign)  
+- Created a responsive design for a healthcare website, increasing mobile traffic by 25%.  
+
+---
 
 ### Frontend Development  
-- Built a custom WordPress theme for a non-profit, resulting in a 50% increase in donations.  
-- Designed and developed an e-commerce site, driving a 20% increase in sales.
+**[Non-Profit WordPress Theme](https://www.behance.net/gallery/321321321/Non-Profit-WordPress-Theme)**  
+![WordPress Theme](https://via.placeholder.com/600x300?text=Non-Profit+WordPress+Theme)  
+- Built a custom WordPress theme for a non-profit organization, increasing donations by 50%.  
+
+**[E-commerce Website](https://www.behance.net/gallery/456456456/E-commerce-Website-Development)**  
+![E-commerce Website](https://via.placeholder.com/600x300?text=E-commerce+Website)  
+- Designed and developed an e-commerce site for a fashion retailer, driving a 20% increase in sales.  
+
+---
+
+## Major Achievements as a Product Designer  
+
+- Recognized as a **Top Performer** on [UXcel](https://app.uxcel.com/ux/nischhal) for completing advanced design challenges and certifications.  
+- Successfully contributed to over **10+ large-scale projects** spanning industries like e-commerce, healthcare, and fintech.  
+- Designed a **mobile app for a fintech startup**, resulting in over 50,000 downloads within the first 3 months.  
+- Developed a **design system** for a SaaS company, streamlining development and reducing time-to-market by 40%.  
 
 ---
 
@@ -67,11 +91,11 @@ Explore my design work and connect with me on these platforms:
 
 ## Contact Me  
 
-Let's work together on your next project! You can reach me at:  
+Looking to collaborate on your next project? You can reach me at:  
 📧 [hinischalsubba@gmail.com](mailto:hinischalsubba@gmail.com)  
 
----  
+---
 
 ## Why Work With Me?
 
-By combining creativity, technical expertise, and a user-first approach, I deliver impactful designs that make a difference. Let’s build something amazing together!  
+By combining creativity, technical expertise, and a user-first approach, I deliver impactful designs that make a difference. Let’s build something amazing together!
