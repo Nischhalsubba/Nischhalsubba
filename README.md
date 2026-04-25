@@ -1,68 +1,107 @@
 <div align="center">
-  <img width="100%" src="https://i.imgur.com/st4M9Qr.jpg" alt="Nischhal Raj Subba - Product Designer" />
+  <img width="100%" src="https://i.imgur.com/st4M9Qr.jpg" alt="Nischhal Raj Subba — Product Designer" />
+
+# 👋 Hi, I’m Nischhal Raj Subba
+
+### Product Designer · Front-End-Aware Builder · Design Systems Thinker
+
+**I design useful digital products, shape clear user experiences, and enjoy bringing interfaces closer to code through thoughtful front-end implementation.**
+
+![Product Design](https://img.shields.io/badge/Product%20Design-UX%20%2B%20UI-7C3AED?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20CSS%20JS%20React-38BDF8?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-Components%20%2B%20Tokens-0F766E?style=for-the-badge)
+![Nepal](https://img.shields.io/badge/Based%20in-Nepal-DC2626?style=for-the-badge)
+
 </div>
 
-# 👋🏼 Hi, I’m Nischhal
+---
 
-Welcome to my corner of the internet! I’m a **Product Designer & Front‑End Developer** from Kathmandu who loves turning problems into delightful digital experiences. My journey began in design – sketching interfaces, building design systems and working closely with stakeholders to understand user needs – but over time I realised that owning the entire flow from concept to code makes products feel polished and cohesive. Today I use both sides of my brain: researching and prototyping like a designer while architecting and shipping code like a developer.
+## ✨ About Me
 
-## 📚 Table of Contents
+I’m a **Product Designer from Nepal** who enjoys working across product thinking, UX research, interface design, design systems, and front-end-aware execution.
 
-- [What I Do](#what-i-do)
-- [Toolbox](#toolbox)
-- [Featured Projects](#featured-projects)
-- [Achievements & Certifications](#achievements--certifications)
-- [GitHub Stats](#github-stats)
-- [Let’s Connect](#lets-connect)
+My work sits between design and code. I like understanding the product problem, designing the user flow, creating polished UI systems, and then thinking about how the experience can be implemented cleanly.
 
-## 🧠 What I Do
+I’m especially interested in:
 
-- 🎯 **User‑centred product design** – research, journey mapping, wireframes and high‑fidelity prototypes that solve real problems.
-- 🎨 **UI/UX and visual design** – creating accessible interfaces, atomic design systems and delightful interactions across web and mobile.
-- 💻 **Front‑end development** – coding responsive websites and applications using HTML5, CSS/SCSS, JavaScript/TypeScript and frameworks such as React. I enjoy working with build tools like Gulp and Vite, and I frequently tailor CI workflows to bridge design and engineering.
-- ⚙️ **DesignOps & tooling** – automating processes to keep design and code in sync. My [design‑ops‑orchestrator](https://github.com/Nischhalsubba/design-ops-orchestrator) project is a modular build system that brings together design tokens, content, motion and accessibility audits in one pipeline.
+- product design and UX strategy
+- web and mobile interface design
+- design systems and component thinking
+- no-code and AI-assisted design workflows
+- static websites, React apps, and frontend prototypes
+- portfolio storytelling and case-study structure
+
+---
 
 ## 🧰 Toolbox
 
-| 🗂️ Category | 🛠️ Tools & Technologies |
-|---------|---------------------|
-| **Design** | Figma (components & tokens), Adobe XD, Photoshop, Illustrator, Uxcel |
-| **Web** | HTML5, CSS3, SASS/SCSS, Tailwind CSS, JavaScript (ES6+), TypeScript |
-| **Frameworks & libraries** | React, Next.js, Vite, Jekyll (for static sites), Strapi (headless CMS), WordPress, Node.js |
-| **Automation & Ops** | Gulp 5, npm scripts, GitHub Actions, Notion CMS integration, AI code healing via Gemini API |
-| **Other** | Git, GitHub, Notion, Strapi, motion design libraries (Scroll‑Out.js, Owl Carousel), analytics tools |
+| Area | Tools / Skills |
+|---|---|
+| Design | Figma, FigJam, UX research, wireframes, prototypes, design systems |
+| Frontend | HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js, Astro, Vite |
+| CMS / Web | WordPress, Strapi, static sites, GitHub Pages, Cloudflare Pages, Vercel |
+| Motion | GSAP, ScrollTrigger, Framer Motion-style interaction thinking |
+| Workflow | Git, GitHub, VS Code, documentation, design-dev handoff |
+| Product Thinking | User flows, information architecture, audits, QA, accessibility basics |
 
-## 🏗️ Featured Projects
+---
 
-- **[Napiyo](https://github.com/Nischhalsubba/Napiyo)** – a land measurement & unit‑conversion app for Nepali users. It converts between traditional units like *bigha* and *ropani* and metric units, stores calculations and is built with **React + TypeScript + Vite + Tailwind CSS**.
-- **[Design‑Ops Orchestrator](https://github.com/Nischhalsubba/design-ops-orchestrator)** – a robust build system that syncs design tokens from Figma, generates motion assets, runs accessibility audits and even uses AI to suggest fixes when builds fail. It acts as a bridge between design and development and reflects my philosophy of “zero‑distance” between the two.
-- **[Creative Agency Website](https://github.com/Nischhalsubba/Creative-Agency)** – a production‑ready website designed and coded for Aurora Creative Co. It applies **atomic design**, SEO best practices, accessible markup and responsive SCSS. The repository includes a well‑structured SCSS architecture and deployment scripts for GitHub Pages.
-- **[rismfp‑ui](https://github.com/Nischhalsubba/rismfp-ui)** – a modern redesign of the MIS RISM website using Jekyll, Gulp and SCSS. Features include improved layout, performance optimisations and a clean, responsive design.
-- **[ESR Website](https://github.com/Nischhalsubba/ESR-Website)** – a static property‑listing site with a custom **HTML/SCSS/JavaScript** theme. While the README is minimal, the repository contains organised `scss`, `js` and image assets.
-- **[HR‑Payroll‑Management](https://github.com/Nischhalsubba/HR-Payroll-Management)** – a proof‑of‑concept web app for managing employees and payroll. Built using modern front‑end technologies and designed to scale.
-- **Portfolio & personal sites** – multiple iterations of my portfolio (e.g., [Nischhal‑Portfolio‑2026](https://github.com/Nischhalsubba/Nischhal-Portfolio-2026), [Personal‑Website](https://github.com/Nischhalsubba/Personal-Website) and [nischhalsubba.com.np](https://github.com/Nischhalsubba/nischhalsubba.com.np)) show how my design and development skills have evolved over time. They are responsive, accessible and integrate with CMS/hosting tools.
-- **Others** – bespoke websites and templates for clients (e.g., **Siddhartha Vanasthali School** site, **Bhuvan** property site, **Grid Labs Hosting**, **CareGene**, **Strapi blog template**, **WordPress theme Ronal**, etc.), experiments like **JavaScript practice** repositories, and open‑source forks such as **33 JS concepts**.
+## 🚀 Featured Projects
 
-## 🏅 Achievements & Certifications
+| Project | Description |
+|---|---|
+| [Nischhal Portfolio 2026](https://github.com/Nischhalsubba/Nischhal-Portfolio-2026) | Personal portfolio direction with a premium product-designer presentation system |
+| [nischhalsubba.com.np](https://github.com/Nischhalsubba/nischhalsubba.com.np) | Personal website and WordPress/static portfolio platform exploration |
+| [DesignOps Orchestrator](https://github.com/Nischhalsubba/design-ops-orchestrator) | Gulp-powered DesignOps workflow for tokens, assets, content, audits, and release tasks |
+| [Napiyo](https://github.com/Nischhalsubba/Napiyo) | Nepal-focused land measurement and unit conversion utility |
+| [Neverwinter Composition Lab](https://github.com/Nischhalsubba/neverwinter-composition-lab) | Neverwinter team builder, support planner, and buff/debuff reference tool |
+| [Neverwinter Live Parser](https://github.com/Nischhalsubba/neverwinter-live-parser) | Desktop combat log parser concept for Neverwinter players |
+| [Furniture Website](https://github.com/Nischhalsubba/Furniture_website) | Editorial furniture storefront concept built with React, TypeScript, Tailwind, and GSAP |
+| [HR Payroll Management](https://github.com/Nischhalsubba/HR-Payroll-Management) | HR/payroll dashboard prototype with onboarding, auth, employee, payroll, and settings flows |
 
-- Ranked **#1 worldwide** on the Uxcel design leaderboard and in the top 98th percentile in the **Figma assessment**.
-- Scored **97/100** in the Uxcel **UX research** assessment.
-- Recognised among the top 10 UI/UX designers in my country.
-- Guest speaker at local design/dev meetups and mentor to aspiring designers.
+---
 
-## 📊 GitHub Stats
+## 🎨 Design Philosophy
 
-I’m an active contributor on GitHub – below you can see my code stats and most‑used languages.  
+I care about interfaces that are:
+
+- clear before they are clever
+- visually polished but still practical
+- responsive across real device sizes
+- structured enough for developers to understand
+- accessible enough for more people to use
+- honest about what the product actually does
+
+Good design is not only the screen. It is the flow, the content, the empty state, the edge case, the handoff, and the final shipped experience.
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nischhalsubba&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&hide=php)
 
-## 🤝 Let’s Connect
+</div>
 
-I love collaborating with developers, designers and entrepreneurs. Feel free to reach out if you want to discuss a project, need design/dev consulting or simply want to chat.
+---
 
-- **LinkedIn:** [linkedin.com/in/nischhalsubba](https://www.linkedin.com/in/nischhalsubba/)
-- **Portfolio:** [nischhalsubba.com.np](https://nischhalsubba.com.np/)
-- **Email:** nischhalsubba@gmail.com
-- **Instagram & Dribbble:** creative snapshots of my design process.
+## 🤝 Connect
+
+| Platform | Link |
+|---|---|
+| Portfolio | [nischhalsubba.com.np](https://nischhalsubba.com.np/) |
+| LinkedIn | [linkedin.com/in/nischhalsubba](https://www.linkedin.com/in/nischhalsubba/) |
+| GitHub | [github.com/Nischhalsubba](https://github.com/Nischhalsubba) |
+| Email | `nischhalsubba@gmail.com` |
+
+---
+
+<div align="center">
+
+Thanks for visiting my GitHub profile.  
+I’m always building, learning, designing, and refining. ✦
+
+</div>
