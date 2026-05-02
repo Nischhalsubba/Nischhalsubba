@@ -1,46 +1,102 @@
 <div align="center">
   <img width="100%" src="https://i.imgur.com/st4M9Qr.jpg" alt="Nischhal Raj Subba — Product Designer in Nepal" />
 
-# 👋 Hi, I’m Nischhal Raj Subba
+# Nischhal Raj Subba
 
 ### Product Designer in Nepal · Web3 UX · SaaS UX · Website UX · Design Systems
 
-**I design useful digital products, clearer user experiences, and front-end-aware interfaces for Web3 apps, SaaS dashboards, fintech products, service websites, and design systems.**
+I design clear digital products, polished interfaces, and front-end-aware experiences for Web3 apps, SaaS dashboards, fintech products, service websites, and design systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nischhalsubba.com.np-0C8CE9?style=for-the-badge)](https://nischhalsubba.com.np/)
-[![Official Profile](https://img.shields.io/badge/Official%20Profile-Nischhal%20Raj%20Subba-111827?style=for-the-badge)](https://nischhalsubba.com.np/nischhal-raj-subba.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/nischhal-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nischhal)
-[![Uxcel](https://img.shields.io/badge/Uxcel-Design%20Profile-6D28D9?style=for-the-badge)](https://app.uxcel.com/ux/nischhal)
+<br />
 
-![Product Design](https://img.shields.io/badge/Product%20Design-UX%20%2B%20UI-7C3AED?style=for-the-badge)
-![Web3 UX](https://img.shields.io/badge/Web3%20UX-Wallet%20%2B%20Transaction%20Clarity-111827?style=for-the-badge)
-![SaaS UX](https://img.shields.io/badge/SaaS%20UX-Dashboards%20%2B%20Workflows-0F766E?style=for-the-badge)
-![Nepal](https://img.shields.io/badge/Based%20in-Nepal-DC2626?style=for-the-badge)
+<a href="https://nischhalsubba.com.np/"><img src="https://img.shields.io/badge/Portfolio-nischhalsubba.com.np-0C8CE9?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://nischhalsubba.com.np/nischhal-raj-subba.html"><img src="https://img.shields.io/badge/Official%20Profile-Nischhal%20Raj%20Subba-111827?style=for-the-badge" alt="Official profile" /></a>
+<a href="https://www.linkedin.com/in/nischhal"><img src="https://img.shields.io/badge/LinkedIn-/in/nischhal-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://app.uxcel.com/ux/nischhal"><img src="https://img.shields.io/badge/Uxcel-Design%20Profile-6D28D9?style=for-the-badge" alt="Uxcel profile" /></a>
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Product%20Design-UX%20%2B%20UI-7C3AED?style=flat-square" alt="Product Design" />
+<img src="https://img.shields.io/badge/Web3%20UX-Wallet%20%2B%20Transactions-111827?style=flat-square" alt="Web3 UX" />
+<img src="https://img.shields.io/badge/SaaS%20UX-Dashboards%20%2B%20Workflows-0F766E?style=flat-square" alt="SaaS UX" />
+<img src="https://img.shields.io/badge/Website%20UX-Service%20%2B%20SEO-0C8CE9?style=flat-square" alt="Website UX" />
+<img src="https://img.shields.io/badge/Based%20in-Nepal-DC2626?style=flat-square" alt="Based in Nepal" />
 
 </div>
 
 ---
 
-## ✨ About Nischhal Raj Subba
+## Official Profile Summary
 
-I’m **Nischhal Raj Subba**, a **Product Designer from Nepal** focused on product strategy, UX research, interface design, design systems, website UX, and front-end-aware product design.
+**Nischhal Raj Subba** is a **Product Designer in Nepal** focused on **Web3 UX**, **SaaS dashboards**, **fintech app experiences**, **website UX**, **design systems**, **UX audits**, **Figma prototypes**, and **front-end-aware product design**.
 
-My work sits between design, product thinking, and implementation. I like understanding the product problem, designing the user flow, creating polished UI systems, and thinking about how the experience can be implemented cleanly.
+I work across product thinking, UX research, interface design, content hierarchy, reusable design systems, and practical design-to-development handoff. My goal is simple: make digital products easier to understand, easier to use, and easier to build.
 
-I’m especially focused on:
-
-- Web3 UX, wallet onboarding, signing clarity, and transaction review
-- SaaS dashboards, CRM-style workflows, admin tools, and modular business software
-- fintech app UX, verification flows, investor/creditor/admin workflows
-- website UX for software companies, consulting firms, and service businesses
-- Figma design systems, reusable components, tokens, and developer handoff
-- UX audits, content hierarchy, SEO-aware page structure, and conversion paths
-
-Official entity/profile page: **[nischhalsubba.com.np/nischhal-raj-subba.html](https://nischhalsubba.com.np/nischhal-raj-subba.html)**
+> Official entity page: [nischhalsubba.com.np/nischhal-raj-subba.html](https://nischhalsubba.com.np/nischhal-raj-subba.html)
 
 ---
 
-## 🧰 Toolbox
+## What I Design
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Web3 UX</h3>
+      <p>Wallet onboarding, signing clarity, transaction review, trust language, and Web3 product education.</p>
+    </td>
+    <td width="50%">
+      <h3>SaaS UX</h3>
+      <p>Dashboards, CRM-style workflows, admin tools, tables, filters, statuses, and modular business software.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Website UX</h3>
+      <p>Service websites, software company pages, content hierarchy, SEO-aware structure, and conversion paths.</p>
+    </td>
+    <td width="50%">
+      <h3>Design Systems</h3>
+      <p>Figma components, variants, tokens, states, responsive rules, documentation, and developer handoff.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Selected Public Work
+
+| Project | Type | Focus |
+|---|---|---|
+| [nischhalsubba.com.np](https://github.com/Nischhalsubba/nischhalsubba.com.np) | Portfolio + entity website | Product design portfolio, project pages, writing, sitemap, schema, AI discovery files |
+| [Nischhal Portfolio 2026](https://github.com/Nischhalsubba/Nischhal-Portfolio-2026) | Portfolio system | Premium product-designer presentation and case-study structure |
+| [DesignOps Orchestrator](https://github.com/Nischhalsubba/design-ops-orchestrator) | DesignOps toolkit | Tokens, assets, content, audits, and release workflows |
+| [Napiyo](https://github.com/Nischhalsubba/Napiyo) | Nepal utility product | Land measurement and unit conversion for Nepali users |
+| [Neverwinter Composition Lab](https://github.com/Nischhalsubba/neverwinter-composition-lab) | Gaming utility UX | Team builder, support planner, buff/debuff reference tool |
+| [Neverwinter Live Parser](https://github.com/Nischhalsubba/neverwinter-live-parser) | Desktop app concept | Combat log parser experience for Neverwinter players |
+| [Furniture Website](https://github.com/Nischhalsubba/Furniture_website) | Front-end concept | Editorial storefront built with React, TypeScript, Tailwind, and GSAP |
+| [HR Payroll Management](https://github.com/Nischhalsubba/HR-Payroll-Management) | Dashboard prototype | HR/payroll flows, onboarding, employee management, payroll, and settings |
+
+---
+
+## Product Design Writing
+
+I write about product design from a practical designer-builder perspective:
+
+| Topic | Article |
+|---|---|
+| Web3 UX | [Web3 Wallet UX Checklist for First-Time Users](https://nischhalsubba.com.np/blog/web3-wallet-ux-checklist.html) |
+| Crypto UX | [How to Design Transaction Review Screens for Crypto Apps](https://nischhalsubba.com.np/blog/transaction-review-ux-crypto-apps.html) |
+| SaaS UX | [SaaS Dashboard UX Checklist for Complex Workflows](https://nischhalsubba.com.np/blog/saas-dashboard-ux-checklist.html) |
+| Website UX | [Website UX Checklist for Software Companies](https://nischhalsubba.com.np/blog/website-ux-checklist-software-companies.html) |
+| UX Audit | [UX Audit Checklist Before Redesigning a Website](https://nischhalsubba.com.np/blog/ux-audit-checklist-before-redesign.html) |
+| Handoff | [How to Write Developer Handoff Notes in Figma](https://nischhalsubba.com.np/blog/figma-handoff-notes-for-developers.html) |
+
+Full writing index: [nischhalsubba.com.np/blog](https://nischhalsubba.com.np/blog/)
+
+---
+
+## Toolbox
 
 | Area | Tools / Skills |
 |---|---|
@@ -54,64 +110,30 @@ Official entity/profile page: **[nischhalsubba.com.np/nischhal-raj-subba.html](h
 
 ---
 
-## 🚀 Featured Projects
+## Design Principles
 
-| Project | Description |
-|---|---|
-| [nischhalsubba.com.np](https://github.com/Nischhalsubba/nischhalsubba.com.np) | Personal portfolio and entity-focused Product Designer website with project pages, writing, service pages, sitemap, schema, and AI discovery files |
-| [Nischhal Portfolio 2026](https://github.com/Nischhalsubba/Nischhal-Portfolio-2026) | Personal portfolio direction with a premium product-designer presentation system |
-| [DesignOps Orchestrator](https://github.com/Nischhalsubba/design-ops-orchestrator) | Gulp-powered DesignOps workflow for tokens, assets, content, audits, and release tasks |
-| [Napiyo](https://github.com/Nischhalsubba/Napiyo) | Nepal-focused land measurement and unit conversion utility |
-| [Neverwinter Composition Lab](https://github.com/Nischhalsubba/neverwinter-composition-lab) | Neverwinter team builder, support planner, and buff/debuff reference tool |
-| [Neverwinter Live Parser](https://github.com/Nischhalsubba/neverwinter-live-parser) | Desktop combat log parser concept for Neverwinter players |
-| [Furniture Website](https://github.com/Nischhalsubba/Furniture_website) | Editorial furniture storefront concept built with React, TypeScript, Tailwind, and GSAP |
-| [HR Payroll Management](https://github.com/Nischhalsubba/HR-Payroll-Management) | HR/payroll dashboard prototype with onboarding, auth, employee, payroll, and settings flows |
+- Clarity before cleverness
+- Useful before decorative
+- Polished, but still practical
+- Honest project storytelling
+- Clean handoff for developers
+- Accessible and responsive by default
+- Strong content structure for both users and search engines
 
 ---
 
-## ✍️ Product Design Writing
-
-A few public articles from my portfolio:
-
-- [Web3 Wallet UX Checklist for First-Time Users](https://nischhalsubba.com.np/blog/web3-wallet-ux-checklist.html)
-- [How to Design Transaction Review Screens for Crypto Apps](https://nischhalsubba.com.np/blog/transaction-review-ux-crypto-apps.html)
-- [SaaS Dashboard UX Checklist for Complex Workflows](https://nischhalsubba.com.np/blog/saas-dashboard-ux-checklist.html)
-- [Website UX Checklist for Software Companies](https://nischhalsubba.com.np/blog/website-ux-checklist-software-companies.html)
-- [UX Audit Checklist Before Redesigning a Website](https://nischhalsubba.com.np/blog/ux-audit-checklist-before-redesign.html)
-- [How to Write Developer Handoff Notes in Figma](https://nischhalsubba.com.np/blog/figma-handoff-notes-for-developers.html)
-
-Full writing index: **[nischhalsubba.com.np/blog](https://nischhalsubba.com.np/blog/)**
-
----
-
-## 🎨 Design Philosophy
-
-I care about interfaces that are:
-
-- clear before they are clever
-- visually polished but still practical
-- responsive across real device sizes
-- structured enough for developers to understand
-- accessible enough for more people to use
-- honest about what the product actually does
-
-Good design is not only the screen. It is the flow, the content, the empty state, the edge case, the handoff, and the final shipped experience.
-
----
-
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nischhalsubba&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&hide=php)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nischhalsubba&show_icons=true&theme=default&hide_border=true" alt="Nischhal Raj Subba GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&hide=php&theme=default&hide_border=true" alt="Nischhal Raj Subba top languages" />
 
 </div>
 
 ---
 
-## 🤝 Official Profiles
+## Official Profiles
 
 | Platform | Link |
 |---|---|
@@ -132,7 +154,8 @@ Good design is not only the screen. It is the flow, the content, the empty state
 
 <div align="center">
 
-Thanks for visiting my GitHub profile.  
-I’m always designing, building, learning, and refining. ✦
+### Let’s design something clear.
+
+I’m always designing, building, learning, and refining.
 
 </div>
