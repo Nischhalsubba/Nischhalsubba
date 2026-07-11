@@ -158,7 +158,7 @@ Full writing index: [nischhalsubba.com.np/blog](https://nischhalsubba.com.np/blo
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nischhalsubba&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Nischhal Raj Subba GitHub trophies" />
+<img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=Nischhalsubba&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Nischhal Raj Subba GitHub trophies" />
 
 </div>
 
@@ -173,8 +173,6 @@ Full writing index: [nischhalsubba.com.np/blog](https://nischhalsubba.com.np/blo
 </picture>
 
 </div>
-
-> The contribution snake requires a GitHub Actions workflow that generates the `output` branch assets. Until that workflow exists, this block may appear blank.
 
 ---
 
