@@ -1,4 +1,4 @@
-name: Generate profile visuals
+name: Generate contribution snake
 
 on:
   schedule:
@@ -11,19 +11,23 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: profile-visuals
-  cancel-in-progress: true
-
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      - name: Check out profile repository
-        uses: actions/checkout@v4
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      -
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
