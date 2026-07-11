@@ -1,0 +1,35 @@
+name: Generate GitHub trophy card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=darkhub&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true"
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          git commit -m "chore: refresh GitHub trophy card" || exit 0
+          git push
