@@ -82,8 +82,8 @@ I write practical product-design notes for designers and builders.
 
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nischhalsubba?cardType=level-alternate&theme=github-dark&fontFamily=Inter&preferLogin=true)](https://git.io/awesome-stats-card)
 
-<img height="180" src="https://readme-stats-github.pages.dev/api?username=Nischhalsubba&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Nischhal Raj Subba GitHub statistics" />
-<img height="180" src="https://readme-stats-github.pages.dev/api/top-langs?username=Nischhalsubba&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Nischhal Raj Subba top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nischhalsubba&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Nischhal Raj Subba GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nischhalsubba&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Nischhal Raj Subba top languages" />
 
 <img height="180" src="https://streak-stats.demolab.com?user=Nischhalsubba&theme=github-dark-blue&hide_border=true" alt="Nischhal Raj Subba GitHub streak" />
 
