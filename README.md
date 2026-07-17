@@ -158,12 +158,13 @@ My portfolio, writing platform, project archive, and personal brand system built
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nischhalsubba&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Nischhal Raj Subba GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nischhalsubba&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Nischhal Raj Subba top languages" />
+<img width="49%" src="https://raw.githubusercontent.com/Nischhalsubba/Nischhalsubba/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Nischhal Raj Subba GitHub profile details" />
+<img width="49%" src="https://raw.githubusercontent.com/Nischhalsubba/Nischhalsubba/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=Nischhalsubba&theme=github-dark-blue&hide_border=true" alt="Nischhal Raj Subba GitHub streak" />
+<img width="49%" src="https://raw.githubusercontent.com/Nischhalsubba/Nischhalsubba/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used commit languages" />
+<img width="49%" src="https://raw.githubusercontent.com/Nischhalsubba/Nischhalsubba/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nischhalsubba&theme=github-compact&hide_border=true&area=true" alt="Nischhal Raj Subba contribution activity graph" />
+<img width="49%" src="https://raw.githubusercontent.com/Nischhalsubba/Nischhalsubba/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive coding time" />
 
 </div>
 
