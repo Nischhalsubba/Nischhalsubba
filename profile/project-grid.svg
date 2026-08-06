@@ -1,0 +1,101 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Selected product work</title>
+  <desc id="desc">A four-card editorial grid showing Napiyo, DesignOps Orchestrator, Neverwinter Live Parser, and HR Payroll Management.</desc>
+  <defs>
+    <linearGradient id="napiyo" x1="30" y1="30" x2="570" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4B860"/>
+      <stop offset="1" stop-color="#FF7B61"/>
+    </linearGradient>
+    <linearGradient id="designops" x1="610" y1="30" x2="1170" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16142A"/>
+      <stop offset="1" stop-color="#2A1F50"/>
+    </linearGradient>
+    <linearGradient id="parser" x1="30" y1="370" x2="570" y2="670" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071D1B"/>
+      <stop offset="1" stop-color="#0C3D38"/>
+    </linearGradient>
+    <linearGradient id="payroll" x1="610" y1="370" x2="1170" y2="670" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF1FF"/>
+      <stop offset="1" stop-color="#FBE8E4"/>
+    </linearGradient>
+    <linearGradient id="network" x1="910" y1="90" x2="1120" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79E2F2"/>
+      <stop offset="1" stop-color="#8D73FF"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="330" y1="430" x2="540" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A6F7D5"/>
+      <stop offset="1" stop-color="#62D7F2"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#11131A" stroke-opacity="0.1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="700" rx="32" fill="#0B0D13"/>
+
+  <g>
+    <rect x="30" y="30" width="550" height="310" rx="26" fill="url(#napiyo)"/>
+    <rect x="30" y="30" width="550" height="310" rx="26" fill="url(#grid)"/>
+    <text x="62" y="82" fill="#11131A" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">01 / LOCAL UTILITY</text>
+    <text x="62" y="152" fill="#11131A" font-family="Georgia, serif" font-size="54" font-weight="700">Napiyo</text>
+    <text x="64" y="192" fill="#30323A" font-family="Arial, sans-serif" font-size="17">Land measurement made local,</text>
+    <text x="64" y="218" fill="#30323A" font-family="Arial, sans-serif" font-size="17">visual, and understandable.</text>
+    <rect x="378" y="78" width="154" height="178" rx="18" fill="#11131A" fill-opacity="0.92"/>
+    <path d="M402 112H508M402 144H478M402 176H496" stroke="#F7EBD9" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="455" cy="216" r="27" fill="#F7EBD9"/>
+    <text x="455" y="224" text-anchor="middle" fill="#11131A" font-family="Georgia, serif" font-size="22" font-weight="700">10.76</text>
+    <text x="64" y="302" fill="#11131A" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">PRODUCT LOGIC / INFORMATION DESIGN / LOCAL CONTEXT</text>
+  </g>
+
+  <g>
+    <rect x="620" y="30" width="550" height="310" rx="26" fill="url(#designops)"/>
+    <text x="652" y="82" fill="#AFA9D8" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 / DESIGN OPERATIONS</text>
+    <text x="652" y="145" fill="#F4F1EA" font-family="Georgia, serif" font-size="44" font-weight="700">DesignOps</text>
+    <text x="652" y="192" fill="#F4F1EA" font-family="Georgia, serif" font-size="44" font-weight="700">Orchestrator</text>
+    <text x="654" y="232" fill="#B8B5C8" font-family="Arial, sans-serif" font-size="16">Tokens, content, quality, and handoff</text>
+    <text x="654" y="257" fill="#B8B5C8" font-family="Arial, sans-serif" font-size="16">connected as one operating flow.</text>
+    <g stroke="url(#network)" stroke-width="2">
+      <path d="M942 92L1030 130L1102 92"/>
+      <path d="M942 92L970 224L1082 254"/>
+      <path d="M1030 130L970 224L1102 92"/>
+      <path d="M1030 130L1082 254"/>
+    </g>
+    <g fill="#F4F1EA" stroke="#8D73FF" stroke-width="4">
+      <circle cx="942" cy="92" r="10"/>
+      <circle cx="1030" cy="130" r="10"/>
+      <circle cx="1102" cy="92" r="10"/>
+      <circle cx="970" cy="224" r="10"/>
+      <circle cx="1082" cy="254" r="10"/>
+    </g>
+    <text x="654" y="302" fill="#8EE5F1" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">SYSTEMS THINKING / WORKFLOW DESIGN / DESIGN-TO-CODE</text>
+  </g>
+
+  <g>
+    <rect x="30" y="360" width="550" height="310" rx="26" fill="url(#parser)"/>
+    <text x="62" y="412" fill="#87BFB4" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">03 / ANALYTICS</text>
+    <text x="62" y="475" fill="#EAF8F2" font-family="Georgia, serif" font-size="41" font-weight="700">Neverwinter</text>
+    <text x="62" y="520" fill="#EAF8F2" font-family="Georgia, serif" font-size="41" font-weight="700">Live Parser</text>
+    <text x="64" y="558" fill="#A9C7C0" font-family="Arial, sans-serif" font-size="16">Dense combat data translated into</text>
+    <text x="64" y="583" fill="#A9C7C0" font-family="Arial, sans-serif" font-size="16">fast, useful decisions.</text>
+    <rect x="356" y="408" width="176" height="184" rx="20" fill="#0A2926" stroke="#A6F7D5" stroke-opacity="0.24"/>
+    <path d="M380 552L398 520L416 536L438 470L458 510L478 448L498 490L516 462" stroke="url(#wave)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="478" cy="448" r="7" fill="#A6F7D5"/>
+    <text x="64" y="632" fill="#A6F7D5" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">DATA VISUALIZATION / DESKTOP UX / DECISION SUPPORT</text>
+  </g>
+
+  <g>
+    <rect x="620" y="360" width="550" height="310" rx="26" fill="url(#payroll)"/>
+    <text x="652" y="412" fill="#566173" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">04 / OPERATIONS</text>
+    <text x="652" y="475" fill="#1B2432" font-family="Georgia, serif" font-size="41" font-weight="700">HR Payroll</text>
+    <text x="652" y="520" fill="#1B2432" font-family="Georgia, serif" font-size="41" font-weight="700">Management</text>
+    <text x="654" y="558" fill="#4E596A" font-family="Arial, sans-serif" font-size="16">Onboarding, permissions, and daily</text>
+    <text x="654" y="583" fill="#4E596A" font-family="Arial, sans-serif" font-size="16">administration made clear.</text>
+    <rect x="946" y="406" width="176" height="184" rx="20" fill="#FFFFFF" stroke="#1B2432" stroke-opacity="0.12"/>
+    <rect x="968" y="430" width="132" height="28" rx="8" fill="#1B2432"/>
+    <circle cx="986" cy="444" r="6" fill="#FF806B"/>
+    <rect x="968" y="476" width="58" height="48" rx="10" fill="#E8E9FF"/>
+    <rect x="1038" y="476" width="62" height="48" rx="10" fill="#FFF0EC"/>
+    <rect x="968" y="538" width="132" height="28" rx="9" fill="#F3F4F8"/>
+    <text x="654" y="632" fill="#6457FF" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">ENTERPRISE UX / WORKFLOW CLARITY / ADMIN SYSTEMS</text>
+  </g>
+</svg>
