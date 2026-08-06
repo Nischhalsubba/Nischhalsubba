@@ -13,6 +13,7 @@ concurrency:
 
 jobs:
   update-readmes:
+    if: github.repository != 'Nischhalsubba/Nischhalsubba'
     runs-on: ubuntu-latest
     env:
       REPOSITORY: ${{ github.repository }}
