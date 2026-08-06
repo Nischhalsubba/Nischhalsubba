@@ -1,138 +1,67 @@
 <div align="center">
 
+<sub>PRODUCT DESIGN · UX SYSTEMS · DESIGN-TO-DEVELOPMENT</sub>
+
 # Nischhal Raj Subba
 
-<!-- interactive-readme-standard:start -->
+### Designing clear, trustworthy digital products for complex systems.
 
-> [!NOTE]
-> **Branch-specific documentation:** this section is maintained for [`main`](https://github.com/Nischhalsubba/Nischhalsubba/tree/main). It is generated from the files present on this branch and preserves the project-authored README below.
-
-<details open>
-<summary><strong>Interactive repository guide</strong></summary>
-
-## Branch overview
-
-| Item | Value |
-|---|---|
-| Repository | [`Nischhalsubba/Nischhalsubba`](https://github.com/Nischhalsubba/Nischhalsubba) |
-| Branch | [`main`](https://github.com/Nischhalsubba/Nischhalsubba/tree/main) |
-| Detected stack | Python |
-| Detected manifests | No standard manifest detected |
-| Documentation policy | Every maintained branch must explain purpose, setup, structure, architecture, flows, testing, delivery, security, and ownership. |
-
-## Repository structure
-
-```mermaid
-flowchart TD
-    ROOT["Nischhalsubba / main"]
-    ROOT --> P0[".github/"]
-    ROOT --> P1["profile/"]
-    ROOT --> P2["profile-summary-card-output/"]
-    ROOT --> P3["llms.txt"]
-```
-
-The diagram is generated from the branch's actual top-level files and directories. Use the branch link above for complete source navigation.
-
-## Website or application structure
-
-```mermaid
-flowchart TD
-    APP["Nischhalsubba"]
-    APP --> SOURCE["No conventional route directory detected"]
-    SOURCE --> VERIFY["Inspect the project-specific documentation below"]
-```
-
-## Application and responsibility flow
-
-```mermaid
-flowchart LR
-    ACTOR["User / contributor"]
-    ACTOR --> A0["Delivery: .github"]
-    A0 --> DELIVERY["Delivery: GitHub Actions"]
-```
-
-## Change-to-delivery flow
-
-```mermaid
-flowchart LR
-    CHANGE["Change on main"]
-    CHECK["Validate: Project-specific validation"]
-    REVIEW["Review documentation and architecture impact"]
-    RELEASE["Merge, release, or deploy according to this branch"]
-    CHANGE --> CHECK --> REVIEW --> RELEASE
-```
-
-## README requirements for this branch
-
-- Explain what this branch contains and how it differs from the default branch.
-- Keep installation, configuration, usage, testing, deployment, security, support, and license information accurate.
-- Document repository, website or application, API, data, authentication, background-job, and deployment flows when they exist.
-- Prefer Mermaid diagrams and expandable `<details>` sections for visual navigation.
-- Link diagrams and modules to real source paths; never invent missing components.
-- Preserve project-specific documentation and update diagrams whenever architecture or major paths change.
-- Treat secrets, private infrastructure, customer data, and credentials as prohibited README content.
-
-</details>
-
-<!-- interactive-readme-standard:end -->
-
-### Product Designer · UX Systems Thinker · Front-end-Aware Builder
-
-Designing clear, trustworthy digital products for complex systems.
+I work where product strategy, interaction design, visual systems, and implementation meet.
+My focus is not only how an interface looks, but how the product thinks, behaves, scales, and earns trust.
 
 <p>
-  <a href="https://nischhalsubba.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-0C8CE9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nischhal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.behance.net/nischhal"><img src="https://img.shields.io/badge/Behance-Work-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://app.uxcel.com/ux/nischhal"><img src="https://img.shields.io/badge/Uxcel-Profile-7C3AED?style=for-the-badge" alt="Uxcel" /></a>
+  <a href="https://nischhalsubba.com.np/"><img src="https://img.shields.io/badge/Portfolio-View%20selected%20work-0C8CE9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nischhal"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/nischhal"><img src="https://img.shields.io/badge/Behance-Design%20archive-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://app.uxcel.com/ux/nischhal"><img src="https://img.shields.io/badge/Uxcel-UX%20profile-7C3AED?style=for-the-badge" alt="Uxcel" /></a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Nischhalsubba&label=Profile%20views&color=0C8CE9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Nischhalsubba?label=Followers&style=flat-square&color=7C3AED" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Nischhalsubba?affiliations=OWNER&label=Stars&style=flat-square&color=0C8CE9" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Nischhalsubba?label=Followers&style=flat-square&color=7C3AED" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Nischhalsubba?affiliations=OWNER&label=Stars&style=flat-square&color=0C8CE9" alt="Repository stars" />
 </p>
 
 </div>
 
----
+<br />
 
-## About me
+> **I design the logic behind the interface, not only the surface in front of it.**
 
-I am a product designer from Nepal working across product strategy, UX research, information architecture, interface design, prototyping, design systems, UX audits, accessibility, and design-to-development handoff.
-
-My work sits between design and implementation. I care about the product logic behind the screen, the visual system that keeps it coherent, and the technical realities that determine whether it can actually be built.
+## What I bring to a product
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### What I design
+### Product clarity
 
-- Web3 products and wallet experiences
-- SaaS dashboards and admin systems
-- Fintech and data-heavy interfaces
-- Service and software websites
-- Design systems and component libraries
+- Product strategy and problem framing
+- UX research and workflow discovery
+- Information architecture
+- Journey mapping and interaction models
+- UX audits for complex products
 
 </td>
 <td width="50%" valign="top">
 
-### What I care about
+### System quality
 
-- Clear information architecture
-- Trustworthy interaction patterns
-- Accessible responsive interfaces
-- Strong design-to-code handoff
-- Honest product storytelling
+- Accessible, responsive interface design
+- Design systems and component libraries
+- Prototypes that explain behavior
+- Design-to-development handoff
+- Front-end-aware design decisions
 
 </td>
 </tr>
 </table>
 
+I am especially interested in products where users need to understand risk, data, status, permissions, dependencies, or multi-step processes without feeling buried by the interface.
+
 ---
 
-## Selected work
+## Selected product work
 
 <table>
 <tr>
@@ -140,7 +69,9 @@ My work sits between design and implementation. I care about the product logic b
 
 ### [Napiyo](https://github.com/Nischhalsubba/Napiyo)
 
-Nepal-focused land measurement and unit conversion utility with local terminology, visual workflows, and practical product logic.
+A Nepal-focused land measurement and unit conversion product built around local terminology, visual workflows, and practical product logic.
+
+<sub>LOCAL UTILITY · INFORMATION DESIGN · PRODUCT LOGIC</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -149,6 +80,8 @@ Nepal-focused land measurement and unit conversion utility with local terminolog
 
 A workflow system connecting design tokens, content, assets, accessibility checks, performance audits, and production handoff.
 
+<sub>DESIGN SYSTEMS · AUTOMATION · DESIGN OPERATIONS</sub>
+
 </td>
 </tr>
 <tr>
@@ -156,14 +89,18 @@ A workflow system connecting design tokens, content, assets, accessibility check
 
 ### [Neverwinter Composition Lab](https://github.com/Nischhalsubba/neverwinter-composition-lab)
 
-A team-planning utility focused on role clarity, information density, and support workflows for complex game compositions.
+A planning utility focused on role clarity, information density, and support workflows for complex team compositions.
+
+<sub>PLANNING UX · DATA DENSITY · DECISION SUPPORT</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### [Neverwinter Live Parser](https://github.com/Nischhalsubba/neverwinter-live-parser)
 
-A desktop analytics product for interpreting combat logs, comparing performance, and making dense data easier to understand.
+A desktop analytics product for interpreting combat logs, comparing performance, and turning dense data into useful decisions.
+
+<sub>DESKTOP UX · ANALYTICS · DATA VISUALIZATION</sub>
 
 </td>
 </tr>
@@ -172,7 +109,9 @@ A desktop analytics product for interpreting combat logs, comparing performance,
 
 ### [HR Payroll Management](https://github.com/Nischhalsubba/HR-Payroll-Management)
 
-An employee and payroll dashboard exploring onboarding, administrative workflows, settings, and operational UX.
+An employee and payroll dashboard exploring onboarding, administrative workflows, settings, and operational product UX.
+
+<sub>SAAS · ADMIN UX · WORKFLOW DESIGN</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -181,15 +120,57 @@ An employee and payroll dashboard exploring onboarding, administrative workflows
 
 My portfolio, writing platform, project archive, and personal brand system built around structured content and discoverability.
 
+<sub>CONTENT SYSTEM · PERSONAL BRAND · FRONT END</sub>
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-[Explore all repositories](https://github.com/Nischhalsubba?tab=repositories) · [View my portfolio](https://nischhalsubba.com.np/)
+[Explore all repositories](https://github.com/Nischhalsubba?tab=repositories) · [View case studies](https://nischhalsubba.com.np/)
 
 </div>
+
+---
+
+## My product design loop
+
+```mermaid
+flowchart LR
+    A[Understand] --> B[Structure]
+    B --> C[Prototype]
+    C --> D[Systemize]
+    D --> E[Validate]
+    E --> F[Handoff]
+    F -. Learn and improve .-> A
+```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01 · Understand
+
+Clarify the user, business goal, constraints, risks, and evidence before decorating assumptions.
+
+</td>
+<td width="33%" valign="top">
+
+### 02 · Structure
+
+Turn complexity into understandable journeys, states, hierarchy, content, and product rules.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · Deliver
+
+Prototype behavior, establish the system, validate decisions, and document implementation clearly.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -197,34 +178,41 @@ My portfolio, writing platform, project archive, and personal brand system built
 
 <div align="center">
 
-### Design
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/FigJam-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="FigJam" />
 <img src="https://img.shields.io/badge/Design%20Systems-111827?style=for-the-badge" alt="Design systems" />
 <img src="https://img.shields.io/badge/UX%20Research-374151?style=for-the-badge" alt="UX research" />
 <img src="https://img.shields.io/badge/Prototyping-4F46E5?style=for-the-badge" alt="Prototyping" />
+<img src="https://img.shields.io/badge/Accessibility-0F766E?style=for-the-badge" alt="Accessibility" />
 
-### Front end
+<br />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-
-### Workflow
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
 
 </div>
+
+<details>
+<summary><strong>View the extended toolkit</strong></summary>
+
+<br />
+
+**Design and product**
+
+Figma · FigJam · UX research · Information architecture · Wireframing · Prototyping · Usability testing · UX audits · Accessibility · Design systems · Content structure · Developer handoff
+
+**Front end and content systems**
+
+HTML · CSS · Sass · JavaScript · TypeScript · React · Next.js · Astro · GSAP · WordPress · Strapi
+
+**Workflow**
+
+Git · GitHub · Component documentation · Responsive QA · Accessibility reviews · Performance-aware design · Design token thinking
+
+</details>
 
 ---
 
@@ -232,9 +220,20 @@ My portfolio, writing platform, project archive, and personal brand system built
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nischhalsubba?cardType=level&theme=gruvbox&fontFamily=Inter&preferLogin=false)](https://git.io/awesome-stats-card)
 
+</td>
+<td width="50%" align="center">
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nischhalsubba&custom_title=Nischhal%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Nischhalsubba&custom_title=Nischhal%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nischhalsubba&theme=github-compact&hide_border=true&area=true" alt="Nischhal Raj Subba contribution activity graph" />
 
@@ -252,16 +251,28 @@ My portfolio, writing platform, project archive, and personal brand system built
 
 ---
 
-## Writing
+## Writing and field notes
 
 I write practical notes for designers and builders working on complex digital products.
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 - [Web3 Wallet UX Checklist for First-Time Users](https://nischhalsubba.com.np/blog/web3-wallet-ux-checklist.html)
 - [How to Design Transaction Review Screens for Crypto Apps](https://nischhalsubba.com.np/blog/transaction-review-ux-crypto-apps.html)
 - [SaaS Dashboard UX Checklist for Complex Workflows](https://nischhalsubba.com.np/blog/saas-dashboard-ux-checklist.html)
+
+</td>
+<td width="50%" valign="top">
+
 - [Website UX Checklist for Software Companies](https://nischhalsubba.com.np/blog/website-ux-checklist-software-companies.html)
 - [UX Audit Checklist Before Redesigning a Website](https://nischhalsubba.com.np/blog/ux-audit-checklist-before-redesign.html)
 - [How to Write Developer Handoff Notes in Figma](https://nischhalsubba.com.np/blog/figma-handoff-notes-for-developers.html)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -271,30 +282,27 @@ I write practical notes for designers and builders working on complex digital pr
 
 ---
 
-## Principles
+## Principles I design by
 
-> Clarity before cleverness. Useful before decorative. Systems over one-off screens.
+> **Clarity before cleverness. Useful before decorative. Systems over one-off screens.**
 
-- Build interfaces people can understand
-- Make complex workflows feel manageable
-- Respect accessibility and responsive behavior
-- Document decisions so implementation stays coherent
-- Present projects honestly, with context and constraints
+- Make complex workflows understandable without hiding important detail.
+- Build trust through clear language, predictable behavior, and visible system status.
+- Treat accessibility and responsive behavior as product requirements.
+- Design components as part of a system, not as isolated screenshots.
+- Document decisions so the implementation remains coherent.
+- Present work honestly, including context, tradeoffs, and constraints.
 
 ---
 
-## Connect
-
 <div align="center">
+
+### Design clearly. Build thoughtfully.
 
 <a href="https://nischhalsubba.com.np/">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/nischhal">LinkedIn</a> ·
 <a href="https://www.behance.net/nischhal">Behance</a> ·
 <a href="https://app.uxcel.com/ux/nischhal">Uxcel</a> ·
-<a href="https://github.com/Nischhalsubba">GitHub</a>
-
-<br /><br />
-
-### Design clearly. Build thoughtfully.
+<a href="https://github.com/Nischhalsubba?tab=repositories">Repositories</a>
 
 </div>
