@@ -8,6 +8,8 @@ from urllib.parse import quote
 
 START = "<!-- interactive-readme-standard:start -->"
 END = "<!-- interactive-readme-standard:end -->"
+PRESERVED_START = "<!-- project-authored-notes:start -->"
+PRESERVED_END = "<!-- project-authored-notes:end -->"
 PROFILE_REPOSITORY = "Nischhalsubba/Nischhalsubba"
 
 repository = os.environ["REPOSITORY"]
@@ -48,7 +50,8 @@ def display_path(path: Path) -> str:
 def github_path_link(path: str) -> str:
     safe_path = quote(path, safe="/")
     safe_branch = quote(branch, safe="/")
-    return f"https://github.com/{repository}/tree/{safe_branch}/{safe_path}"
+    kind = "tree" if (root / path).is_dir() else "blob"
+    return f"https://github.com/{repository}/{kind}/{safe_branch}/{safe_path}"
 
 
 def read_json(path: Path) -> dict:
@@ -368,7 +371,7 @@ manifest_text = ", ".join(manifest_files[:10]) or "No standard manifest detected
 branch_url = f"https://github.com/{repository}/tree/{quote(branch, safe='/')}"
 repo_url = f"https://github.com/{repository}"
 issues_url = f"https://github.com/{repository}/issues"
-codespace_url = f"https://github.com/codespaces/new?hide_repo_select=true&ref={quote(branch, safe='')}&repo={quote(repository, safe='')}"
+codespace_url = f"https://github.com/{repository}/codespaces/new?ref={quote(branch, safe='')}"
 
 badges = [static_badge(f"branch: {branch}", "5965F2")]
 for item in frameworks[:6]:
@@ -634,9 +637,22 @@ else:
 managed_pattern = re.compile(re.escape(START) + r".*?" + re.escape(END) + r"\s*", flags=re.DOTALL)
 cleaned = managed_pattern.sub("", original).lstrip("\ufeff").strip()
 
+preserved_pattern = re.compile(
+    re.escape(PRESERVED_START)
+    + r"\s*<details>\s*<summary><strong>Project-authored notes preserved from this branch</strong></summary>\s*"
+    + r"(.*?)\s*</details>\s*"
+    + re.escape(PRESERVED_END),
+    flags=re.DOTALL,
+)
+preserved_match = preserved_pattern.search(cleaned)
+if preserved_match:
+    authored_notes = preserved_match.group(1).strip()
+else:
+    authored_notes = cleaned
+
 preserved = ""
-if cleaned:
-    preserved = f'''\n\n<details>\n<summary><strong>Project-authored notes preserved from this branch</strong></summary>\n\n{cleaned}\n\n</details>'''
+if authored_notes:
+    preserved = f'''\n\n{PRESERVED_START}\n<details>\n<summary><strong>Project-authored notes preserved from this branch</strong></summary>\n\n{authored_notes}\n\n</details>\n{PRESERVED_END}'''
 
 updated = block + preserved + "\n"
 readme.write_text(updated, encoding="utf-8")
