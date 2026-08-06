@@ -1,0 +1,83 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nischhal Raj Subba, product designer</title>
+  <desc id="desc">A dark editorial banner with geometric forms and the message: I make complex products feel clear.</desc>
+  <defs>
+    <linearGradient id="bg" x1="34" y1="14" x2="1162" y2="449" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B12"/>
+      <stop offset="0.54" stop-color="#111525"/>
+      <stop offset="1" stop-color="#17122C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="728" y1="42" x2="1114" y2="402" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72E6FF"/>
+      <stop offset="0.52" stop-color="#6D6BFF"/>
+      <stop offset="1" stop-color="#C76CFF"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="730" y1="55" x2="1091" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8CEBFF" stop-opacity="0.92"/>
+      <stop offset="0.48" stop-color="#7774FF" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#D080FF" stop-opacity="0.78"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(934 225) rotate(90) scale(244 274)">
+      <stop stop-color="#6B63FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#6B63FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="blur" x="610" y="-54" width="644" height="568" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="38"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="460" rx="30"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="460" rx="30" fill="url(#bg)"/>
+    <rect width="1200" height="460" fill="url(#grid)"/>
+    <ellipse cx="937" cy="229" rx="269" ry="238" fill="url(#glow)"/>
+    <ellipse cx="980" cy="166" rx="196" ry="154" fill="#655EFF" fill-opacity="0.12" filter="url(#blur)"/>
+
+    <path d="M0 368C179 327 289 367 458 335C622 304 676 217 846 214C996 211 1083 281 1200 262V460H0V368Z" fill="#FFFFFF" fill-opacity="0.025"/>
+
+    <rect x="64" y="54" width="251" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.13"/>
+    <circle cx="82" cy="70" r="4" fill="#77E3FF"/>
+    <text x="96" y="75" fill="#DDE6FF" font-size="12" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" letter-spacing="1.7">PRODUCT DESIGNER · NEPAL</text>
+
+    <text x="64" y="155" fill="#FFFFFF" font-size="60" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="750" letter-spacing="-2.5">I make complex</text>
+    <text x="64" y="218" fill="#FFFFFF" font-size="60" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="750" letter-spacing="-2.5">products feel clear.</text>
+
+    <text x="66" y="272" fill="#AEB8D0" font-size="18" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="400">Product strategy, UX systems, interaction design,</text>
+    <text x="66" y="300" fill="#AEB8D0" font-size="18" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="400">and front-end-aware execution.</text>
+
+    <line x1="64" y1="356" x2="570" y2="356" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="64" y="390" fill="#E8ECF8" font-size="14" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="650" letter-spacing="1.8">NISCHHAL RAJ SUBBA</text>
+    <text x="343" y="390" fill="#8F9AB3" font-size="12" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="500" letter-spacing="1.6">CLARITY / SYSTEMS / TRUST</text>
+
+    <circle cx="942" cy="222" r="145" stroke="url(#stroke)" stroke-width="2"/>
+    <circle cx="942" cy="222" r="104" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <circle cx="942" cy="222" r="58" fill="url(#accent)" fill-opacity="0.92"/>
+    <circle cx="942" cy="222" r="26" fill="#0C101B"/>
+    <path d="M824 137L1061 307" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <path d="M823 307L1061 137" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <path d="M942 76V368" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <path d="M796 222H1088" stroke="#FFFFFF" stroke-opacity="0.09"/>
+
+    <circle cx="942" cy="76" r="6" fill="#79E6FF"/>
+    <circle cx="1088" cy="222" r="6" fill="#8B79FF"/>
+    <circle cx="942" cy="368" r="6" fill="#CF78FF"/>
+    <circle cx="796" cy="222" r="6" fill="#FFFFFF" fill-opacity="0.7"/>
+
+    <rect x="1050" y="66" width="104" height="31" rx="15.5" fill="#FFFFFF" fill-opacity="0.065" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="1070" y="86" fill="#DCE5F7" font-size="11" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="650" letter-spacing="1.4">SYSTEMS</text>
+
+    <rect x="688" y="342" width="100" height="31" rx="15.5" fill="#FFFFFF" fill-opacity="0.065" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="709" y="362" fill="#DCE5F7" font-size="11" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="650" letter-spacing="1.4">CLARITY</text>
+
+    <rect x="1043" y="349" width="96" height="31" rx="15.5" fill="#FFFFFF" fill-opacity="0.065" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="1066" y="369" fill="#DCE5F7" font-size="11" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="650" letter-spacing="1.4">TRUST</text>
+
+    <text x="911" y="227" fill="#FFFFFF" font-size="13" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="750" letter-spacing="2.1">UX</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="458.5" rx="29.25" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1.5"/>
+</svg>
