@@ -1,0 +1,46 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Product design process</title>
+  <desc id="desc">Four-stage product design process: frame, structure, prototype, and ship.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C0E15"/>
+      <stop offset="1" stop-color="#171426"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="0" x2="1110" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#76DDF4"/>
+      <stop offset="0.5" stop-color="#7669FF"/>
+      <stop offset="1" stop-color="#FF806B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <path d="M142 94H1058" stroke="#FFFFFF" stroke-opacity="0.13" stroke-width="2"/>
+  <path d="M142 94H1058" stroke="url(#accent)" stroke-width="3" stroke-dasharray="180 50"/>
+
+  <g font-family="Arial, sans-serif">
+    <circle cx="142" cy="94" r="20" fill="#76DDF4"/>
+    <text x="142" y="101" text-anchor="middle" fill="#0C0E15" font-size="15" font-weight="800">01</text>
+    <text x="90" y="154" fill="#F4F1EA" font-size="22" font-weight="700">Frame</text>
+    <text x="90" y="184" fill="#AEB1BC" font-size="15">Problem, user, risk,</text>
+    <text x="90" y="207" fill="#AEB1BC" font-size="15">constraints, outcome.</text>
+
+    <circle cx="447" cy="94" r="20" fill="#6FB8FA"/>
+    <text x="447" y="101" text-anchor="middle" fill="#0C0E15" font-size="15" font-weight="800">02</text>
+    <text x="392" y="154" fill="#F4F1EA" font-size="22" font-weight="700">Structure</text>
+    <text x="392" y="184" fill="#AEB1BC" font-size="15">Flows, information,</text>
+    <text x="392" y="207" fill="#AEB1BC" font-size="15">states, permissions.</text>
+
+    <circle cx="752" cy="94" r="20" fill="#7669FF"/>
+    <text x="752" y="101" text-anchor="middle" fill="#F4F1EA" font-size="15" font-weight="800">03</text>
+    <text x="690" y="154" fill="#F4F1EA" font-size="22" font-weight="700">Prototype</text>
+    <text x="690" y="184" fill="#AEB1BC" font-size="15">Behavior, interaction,</text>
+    <text x="690" y="207" fill="#AEB1BC" font-size="15">visual direction.</text>
+
+    <circle cx="1058" cy="94" r="20" fill="#FF806B"/>
+    <text x="1058" y="101" text-anchor="middle" fill="#0C0E15" font-size="15" font-weight="800">04</text>
+    <text x="1004" y="154" fill="#F4F1EA" font-size="22" font-weight="700">Ship</text>
+    <text x="1004" y="184" fill="#AEB1BC" font-size="15">Systems, handoff,</text>
+    <text x="1004" y="207" fill="#AEB1BC" font-size="15">quality, continuity.</text>
+  </g>
+
+  <text x="90" y="258" fill="#6E7180" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">RESEARCH -> INFORMATION -> INTERACTION -> IMPLEMENTATION</text>
+</svg>
