@@ -2,7 +2,7 @@
 
 # Nischhal Raj Subba
 
-### Senior Product Designer · Complex SaaS & Fintech · Design Systems · Design-to-Engineering
+### Senior Product Designer · Kathmandu, Nepal · SaaS, Fintech & Web3 · Design Systems
 
 **I turn complex workflows into clear, trustworthy products that teams can actually ship.**
 
@@ -43,11 +43,13 @@
 
 ## About
 
-I am a **Senior Product Designer with 6+ years of experience** working across SaaS, fintech, Web3, enterprise software, dashboards, operations tools, data-heavy products, and design systems.
+I am **Nischhal Raj Subba, a Senior Product Designer based in Kathmandu, Nepal, with 6+ years of experience** working across SaaS, fintech, Web3, enterprise software, dashboards, operations tools, data-heavy products, and design systems.
 
 My strongest work sits where products get complicated: **multi-role workflows, permissions, dense information, high-trust interactions, system states, reusable components, and design-to-engineering handoff**.
 
 I work across product strategy, UX research, information architecture, interaction design, accessible UI, prototyping, design systems, and implementation-aware delivery. Front-end knowledge helps me make decisions that are practical to build, easier to document, and more resilient once shipped.
+
+My canonical portfolio and writing home is **[nischhalsubba.com.np](https://nischhalsubba.com.np/)**.
 
 > **Positioning:** complex SaaS and fintech products, scalable design systems, and stronger continuity between design intent and implementation.
 
@@ -122,9 +124,9 @@ My portfolio and writing platform, connecting product design case studies, UX th
 
 ## Writing
 
-- **[Web3 Wallet UX Checklist](https://nischhalsubba.com.np/blog/web3-wallet-ux-checklist.html)** — onboarding, signing, risk, recovery, fees, and transaction clarity.
-- **[SaaS Dashboard UX Checklist](https://nischhalsubba.com.np/blog/saas-dashboard-ux-checklist.html)** — navigation, hierarchy, states, data density, filters, actions, and operational clarity.
-- **[Figma Handoff Notes](https://nischhalsubba.com.np/blog/figma-handoff-notes-for-developers.html)** — behavior, states, breakpoints, accessibility, and implementation intent.
+- **[Web3 Wallet UX Checklist](https://nischhalsubba.com.np/blog/web3-wallet-ux-checklist)** — onboarding, signing, risk, recovery, fees, and transaction clarity.
+- **[SaaS Dashboard UX Checklist](https://nischhalsubba.com.np/blog/saas-dashboard-ux-checklist)** — navigation, hierarchy, states, data density, filters, actions, and operational clarity.
+- **[Figma Handoff Notes](https://nischhalsubba.com.np/blog/figma-handoff-notes-for-developers)** — behavior, states, breakpoints, accessibility, and implementation intent.
 
 <p align="right">
   <a href="https://nischhalsubba.com.np/blog/"><strong>Read all articles →</strong></a>
@@ -150,6 +152,6 @@ My portfolio and writing platform, connecting product design case studies, UX th
   </a>
 </p>
 
-**[Portfolio](https://nischhalsubba.com.np/)** · **[Behance](https://www.behance.net/nischhal)** · **[LinkedIn](https://www.linkedin.com/in/nischhal)** · **[Uxcel](https://app.uxcel.com/ux/nischhal)** · **[X](https://x.com/imnischhal)**
+**[Portfolio](https://nischhalsubba.com.np/)** · **[Behance](https://www.behance.net/nischhal)** · **[Dribbble](https://dribbble.com/Nischhal)** · **[LinkedIn](https://www.linkedin.com/in/nischhal)** · **[Uxcel](https://app.uxcel.com/ux/nischhal)** · **[X](https://x.com/imnischhal)**
 
 </div>
