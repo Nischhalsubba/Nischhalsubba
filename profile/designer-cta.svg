@@ -1,21 +1,10 @@
 <svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Let's build something meaningful together</title>
-  <desc id="desc">A colorful collaboration callout for senior product design roles and selected collaborations.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="40" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E653A8"/>
-      <stop offset="0.5" stop-color="#6C63FF"/>
-      <stop offset="1" stop-color="#FF8A65"/>
-    </linearGradient>
-    <linearGradient id="overlay" x1="140" y1="20" x2="1040" y2="170" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF" stop-opacity="0.06"/>
-      <stop offset="1" stop-color="#0B0D13" stop-opacity="0.24"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="180" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="180" rx="28" fill="url(#overlay)"/>
-  <text x="50" y="70" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="29" font-weight="800">Let’s build something meaningful together.</text>
-  <text x="50" y="108" fill="#F7F2FF" font-family="Arial, sans-serif" font-size="16">Open to senior product design roles, selected collaborations, and interesting product problems.</text>
-  <rect x="945" y="58" width="205" height="64" rx="32" fill="#FFFFFF"/>
-  <text x="1047.5" y="96" text-anchor="middle" fill="#111318" font-family="Arial, sans-serif" font-size="14" font-weight="800">VIEW MY WORK  ↗</text>
+  <title id="title">Let's discuss a complex product problem</title>
+  <desc id="desc">A restrained collaboration callout for senior product design roles and selected collaborations.</desc>
+  <rect x="1" y="1" width="1198" height="178" rx="22" fill="#11161D" stroke="#2E3741"/>
+  <rect x="44" y="42" width="36" height="3" rx="1.5" fill="#62788D"/>
+  <text x="44" y="86" fill="#F0F2F5" font-family="Arial, sans-serif" font-size="27" font-weight="700">Have a complex product problem?</text>
+  <text x="44" y="121" fill="#98A2AD" font-family="Arial, sans-serif" font-size="15">Open to senior product design roles and selected collaborations.</text>
+  <rect x="930" y="58" width="218" height="54" rx="10" fill="#171E26" stroke="#506172"/>
+  <text x="1039" y="91" text-anchor="middle" fill="#D8E0E7" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.6">VIEW MY WORK  ↗</text>
 </svg>
