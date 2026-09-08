@@ -1,0 +1,86 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nischhal Raj Subba — Senior Product Designer</title>
+  <desc id="desc">A dark designer portfolio banner with layered interface forms and a concise product design positioning statement.</desc>
+  <defs>
+    <linearGradient id="bg" x1="44" y1="22" x2="1150" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11182A"/>
+      <stop offset="0.54" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#101638"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="720" y1="40" x2="1110" y2="365" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A45CFF"/>
+      <stop offset="0.48" stop-color="#5C7CFA"/>
+      <stop offset="1" stop-color="#3FC7FF"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="880" y1="28" x2="1150" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8A65"/>
+      <stop offset="1" stop-color="#F35DA8"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.035"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 184) rotate(90) scale(220)">
+      <stop stop-color="#715CFF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#715CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="428" rx="28" fill="url(#bg)" stroke="#2B3652"/>
+  <rect x="1" y="1" width="1198" height="428" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="28" fill="url(#halo)"/>
+
+  <g transform="translate(58 50)" font-family="Arial, sans-serif">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#93A0B8" font-size="13" font-weight="700" letter-spacing="2.4">SENIOR PRODUCT DESIGNER · KATHMANDU · REMOTE</text>
+    <text x="0" y="74" fill="#F7F9FC" font-size="27" font-weight="600">Hi, I’m</text>
+    <text x="0" y="136" fill="#FFFFFF" font-size="63" font-weight="800" letter-spacing="-2.2">Nischhal Raj Subba</text>
+    <text x="2" y="181" fill="#BCC5D6" font-size="19">I turn complicated product logic into clear, trustworthy interfaces.</text>
+
+    <g transform="translate(0 226)">
+      <rect width="148" height="42" rx="21" fill="#F7F9FC"/>
+      <text x="74" y="26" text-anchor="middle" fill="#0A1020" font-size="12" font-weight="800" letter-spacing="1">PRODUCT UX</text>
+      <rect x="160" width="156" height="42" rx="21" fill="#151D31" stroke="#394766"/>
+      <text x="238" y="26" text-anchor="middle" fill="#EAF0FA" font-size="12" font-weight="700" letter-spacing="1">DESIGN SYSTEMS</text>
+      <rect x="328" width="186" height="42" rx="21" fill="#151D31" stroke="#394766"/>
+      <text x="421" y="26" text-anchor="middle" fill="#EAF0FA" font-size="12" font-weight="700" letter-spacing="1">DESIGN → ENGINEERING</text>
+    </g>
+
+    <line x1="0" y1="302" x2="520" y2="302" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <text x="0" y="334" fill="#8F9AAF" font-size="13">SaaS · Fintech · Web3 · Complex workflows · Accessible systems</text>
+  </g>
+
+  <g transform="translate(700 36)">
+    <circle cx="230" cy="174" r="168" fill="#6A5BFF" fill-opacity="0.08"/>
+
+    <g transform="rotate(-12 235 170)">
+      <rect x="22" y="28" width="268" height="176" rx="24" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.14"/>
+      <rect x="48" y="56" width="116" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.22"/>
+      <rect x="48" y="84" width="194" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.08"/>
+      <rect x="48" y="104" width="166" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.08"/>
+      <rect x="48" y="136" width="98" height="40" rx="12" fill="#F6F8FC"/>
+      <text x="97" y="161" text-anchor="middle" fill="#11182A" font-family="Arial, sans-serif" font-size="10" font-weight="800">PRIMARY</text>
+    </g>
+
+    <g transform="rotate(7 265 210)">
+      <rect x="150" y="132" width="282" height="182" rx="24" fill="#10172A" stroke="#8390B0" stroke-opacity="0.34"/>
+      <rect x="178" y="160" width="72" height="72" rx="20" fill="url(#accent)"/>
+      <rect x="272" y="164" width="128" height="14" rx="7" fill="#F1F4F9" fill-opacity="0.86"/>
+      <rect x="272" y="193" width="104" height="8" rx="4" fill="#9FA9BC" fill-opacity="0.50"/>
+      <rect x="178" y="252" width="222" height="34" rx="10" fill="#161F34" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <text x="198" y="273" fill="#B4BED0" font-family="Arial, sans-serif" font-size="10" letter-spacing="1.1">STATE · READY FOR HANDOFF</text>
+    </g>
+
+    <g transform="translate(312 52) rotate(13)">
+      <rect width="112" height="112" rx="24" fill="url(#warm)" opacity="0.92"/>
+      <circle cx="56" cy="56" r="22" fill="#FFFFFF" fill-opacity="0.18"/>
+    </g>
+
+    <g transform="translate(22 328)">
+      <text x="0" y="0" dominant-baseline="hanging" fill="#9BA6BA" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">DESIGN PRINCIPLE</text>
+      <text x="0" y="34" fill="#F5F7FB" font-family="Georgia, serif" font-size="21" font-style="italic">Make complexity easier to reason about.</text>
+    </g>
+  </g>
+</svg>
