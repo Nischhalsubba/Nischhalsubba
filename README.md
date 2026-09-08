@@ -25,6 +25,8 @@
   <a href="https://github.com/Nischhalsubba?tab=repositories"><img src="./profile/badge-repos.svg" alt="Public GitHub repositories"></a>
   <a href="https://github.com/Nischhalsubba?tab=repositories"><img src="./profile/badge-stars.svg" alt="Stars earned across public repositories"></a>
   <a href="https://github.com/Nischhalsubba?tab=followers"><img src="./profile/badge-followers.svg" alt="GitHub followers"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ANischhalsubba"><img src="./profile/badge-prs.svg" alt="Pull requests authored"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ANischhalsubba+is%3Amerged"><img src="./profile/badge-merged.svg" alt="Merged pull requests"></a>
 </p>
 
 </div>
@@ -119,7 +121,31 @@ My portfolio and writing platform, connecting product design case studies, UX th
   <img width="100%" src="./profile/github-languages.svg" alt="Most used languages across Nischhal Raj Subba's public repositories">
 </p>
 
-<sub>The stats, badges, and language card are stored in this repository and refreshed automatically from GitHub's API. Public figures do not include private professional work.</sub>
+### Contribution Streak
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="100%" src="https://streak-stats.demolab.com?user=Nischhalsubba&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="Nischhal Raj Subba's GitHub contribution streak">
+  </a>
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nischhalsubba&theme=github-compact&hide_border=true&area=true" alt="Nischhal Raj Subba's GitHub contribution activity graph">
+  </a>
+</p>
+
+### GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nischhalsubba&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="Nischhal Raj Subba's GitHub profile trophies">
+  </a>
+</p>
+
+<sub>Core metrics and language cards are stored in this repository and refreshed automatically from GitHub's API. Streak, contribution graph, and trophy widgets are external live embeds; temporary upstream outages can affect those three widgets. Public figures do not include private professional work.</sub>
 
 ---
 
