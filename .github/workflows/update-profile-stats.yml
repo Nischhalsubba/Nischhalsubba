@@ -5,8 +5,7 @@ on:
   schedule:
     - cron: "17 2 * * *"
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - ".github/workflows/update-profile-stats.yml"
 
@@ -39,19 +38,28 @@ jobs:
               type: 'owner',
               sort: 'updated',
             });
-
             const owned = repos.filter((repo) => !repo.fork);
             const stars = owned.reduce((sum, repo) => sum + (repo.stargazers_count || 0), 0);
             const followers = user.followers || 0;
             const publicRepos = user.public_repos || repos.length;
 
+            async function searchCount(q) {
+              const { data } = await github.rest.search.issuesAndPullRequests({ q, per_page: 1 });
+              return data.total_count || 0;
+            }
+
+            const [pullRequests, mergedPullRequests, issues, reviews] = await Promise.all([
+              searchCount(`author:${username} is:pr`),
+              searchCount(`author:${username} is:pr is:merged`),
+              searchCount(`author:${username} is:issue`),
+              searchCount(`reviewed-by:${username} is:pr`),
+            ]);
+            const mergeRate = pullRequests ? (mergedPullRequests / pullRequests) * 100 : 0;
+
             const languageBytes = new Map();
             for (const repo of owned) {
               try {
-                const { data: languages } = await github.rest.repos.listLanguages({
-                  owner: username,
-                  repo: repo.name,
-                });
+                const { data: languages } = await github.rest.repos.listLanguages({ owner: username, repo: repo.name });
                 for (const [language, bytes] of Object.entries(languages)) {
                   languageBytes.set(language, (languageBytes.get(language) || 0) + bytes);
                 }
@@ -59,45 +67,41 @@ jobs:
                 core.warning(`Could not read languages for ${repo.name}: ${error.message}`);
               }
             }
-
             const totalLanguageBytes = [...languageBytes.values()].reduce((sum, bytes) => sum + bytes, 0);
             const topLanguages = [...languageBytes.entries()]
               .sort((a, b) => b[1] - a[1])
               .slice(0, 6)
-              .map(([name, bytes]) => ({
-                name,
-                percentage: totalLanguageBytes ? (bytes / totalLanguageBytes) * 100 : 0,
-              }));
+              .map(([name, bytes]) => ({ name, percentage: totalLanguageBytes ? (bytes / totalLanguageBytes) * 100 : 0 }));
 
             const escapeXml = (value) => String(value)
-              .replaceAll('&', '&amp;')
-              .replaceAll('<', '&lt;')
-              .replaceAll('>', '&gt;')
-              .replaceAll('"', '&quot;')
-              .replaceAll("'", '&apos;');
+              .replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;')
+              .replaceAll('"', '&quot;').replaceAll("'", '&apos;');
+
+            const metrics = [
+              ['Public repos', publicRepos], ['Followers', followers], ['Stars earned', stars],
+              ['Pull requests', pullRequests], ['Merged PRs', mergedPullRequests], ['Issues', issues], ['PR reviews', reviews],
+            ];
 
             const stats = `
-            <svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
+            <svg xmlns="http://www.w3.org/2000/svg" width="900" height="286" viewBox="0 0 900 286" role="img" aria-labelledby="title desc">
               <title id="title">${escapeXml(username)} GitHub activity</title>
-              <desc id="desc">Public GitHub activity summary showing repositories, stars, and followers.</desc>
+              <desc id="desc">Public GitHub activity summary with repositories, followers, stars, pull requests, merged pull requests, issues, and reviews.</desc>
               <style>
-                .card{fill:#0d1117;stroke:#30363d}.title{fill:#f0f6fc;font:600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.value{fill:#f0f6fc;font:700 30px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.label{fill:#8b949e;font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.note{fill:#8b949e;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.divider{stroke:#21262d}
-                @media (prefers-color-scheme: light){.card{fill:#ffffff;stroke:#d0d7de}.title,.value{fill:#1f2328}.label,.note{fill:#656d76}.divider{stroke:#d8dee4}}
+                .card{fill:#0d1117;stroke:#30363d}.title{fill:#f0f6fc;font:600 19px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.value{fill:#f0f6fc;font:700 27px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.label{fill:#8b949e;font:500 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.accent{fill:#58a6ff;font:700 28px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.note{fill:#8b949e;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.divider{stroke:#21262d}
+                @media (prefers-color-scheme: light){.card{fill:#ffffff;stroke:#d0d7de}.title,.value{fill:#1f2328}.label,.note{fill:#656d76}.accent{fill:#0969da}.divider{stroke:#d8dee4}}
               </style>
-              <rect class="card" x="0.5" y="0.5" width="899" height="189" rx="12"/>
+              <rect class="card" x="0.5" y="0.5" width="899" height="285" rx="12"/>
               <text class="title" x="28" y="38">GitHub Activity</text>
               <line class="divider" x1="28" y1="55" x2="872" y2="55"/>
-              <g transform="translate(36 78)"><text class="value" x="0" y="32">${publicRepos}</text><text class="label" x="0" y="55">Public repositories</text></g>
-              <g transform="translate(332 78)"><text class="value" x="0" y="32">${stars}</text><text class="label" x="0" y="55">Stars earned</text></g>
-              <g transform="translate(628 78)"><text class="value" x="0" y="32">${followers}</text><text class="label" x="0" y="55">Followers</text></g>
-              <text class="note" x="28" y="166">Public GitHub profile snapshot · refreshed automatically by GitHub Actions</text>
+              ${metrics.slice(0,4).map(([label,value],i)=>`<g transform="translate(${32+i*214} 76)"><text class="value" x="0" y="28">${value}</text><text class="label" x="0" y="50">${label}</text></g>`).join('')}
+              ${metrics.slice(4).map(([label,value],i)=>`<g transform="translate(${32+i*214} 151)"><text class="value" x="0" y="28">${value}</text><text class="label" x="0" y="50">${label}</text></g>`).join('')}
+              <g transform="translate(674 151)"><text class="accent" x="0" y="28">${mergeRate.toFixed(1)}%</text><text class="label" x="0" y="50">PR merge rate</text></g>
+              <text class="note" x="28" y="261">Public GitHub data · refreshed daily by GitHub Actions · private professional work is not included</text>
             </svg>`.trimStart();
 
             function badge(label, value, width, labelWidth) {
               const valueWidth = width - labelWidth;
-              const labelX = labelWidth / 2;
-              const valueX = labelWidth + valueWidth / 2;
-              return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="24" role="img" aria-label="${escapeXml(label)}: ${escapeXml(value)}"><title>${escapeXml(label)}: ${escapeXml(value)}</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-opacity=".08"/></linearGradient><clipPath id="r"><rect width="${width}" height="24" rx="6"/></clipPath><g clip-path="url(#r)"><rect width="${labelWidth}" height="24" fill="#24292f"/><rect x="${labelWidth}" width="${valueWidth}" height="24" fill="#2f81f7"/><rect width="${width}" height="24" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11"><text x="${labelX}" y="16">${escapeXml(label)}</text><text x="${valueX}" y="16" font-weight="700">${escapeXml(value)}</text></g></svg>`;
+              return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="24" role="img" aria-label="${escapeXml(label)}: ${escapeXml(value)}"><title>${escapeXml(label)}: ${escapeXml(value)}</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-opacity=".08"/></linearGradient><clipPath id="r"><rect width="${width}" height="24" rx="6"/></clipPath><g clip-path="url(#r)"><rect width="${labelWidth}" height="24" fill="#24292f"/><rect x="${labelWidth}" width="${valueWidth}" height="24" fill="#2f81f7"/><rect width="${width}" height="24" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11"><text x="${labelWidth/2}" y="16">${escapeXml(label)}</text><text x="${labelWidth+valueWidth/2}" y="16" font-weight="700">${escapeXml(value)}</text></g></svg>`;
             }
 
             function languageCard(languages) {
@@ -107,9 +111,9 @@ jobs:
                 const y = 84 + index * rowHeight;
                 const percent = Math.max(0, Math.min(100, language.percentage));
                 const barWidth = (percent / 100) * 560;
-                return `<text class="language" x="28" y="${y}">${escapeXml(language.name)}</text><rect class="track" x="184" y="${y - 11}" width="560" height="10" rx="5"/><rect class="bar" x="184" y="${y - 11}" width="${barWidth.toFixed(1)}" height="10" rx="5"/><text class="percentage" x="858" y="${y}" text-anchor="end">${percent.toFixed(1)}%</text>`;
+                return `<text class="language" x="28" y="${y}">${escapeXml(language.name)}</text><rect class="track" x="184" y="${y-11}" width="560" height="10" rx="5"/><rect class="bar" x="184" y="${y-11}" width="${barWidth.toFixed(1)}" height="10" rx="5"/><text class="percentage" x="858" y="${y}" text-anchor="end">${percent.toFixed(1)}%</text>`;
               }).join('');
-              return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="${height}" viewBox="0 0 900 ${height}" role="img" aria-labelledby="title desc"><title id="title">Most used languages</title><desc id="desc">Top programming and markup languages by bytes across public non-fork repositories.</desc><style>.card{fill:#0d1117;stroke:#30363d}.title{fill:#f0f6fc;font:600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.language{fill:#c9d1d9;font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.percentage,.note{fill:#8b949e;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.track{fill:#21262d}.bar{fill:#2f81f7}.divider{stroke:#21262d}@media (prefers-color-scheme: light){.card{fill:#ffffff;stroke:#d0d7de}.title,.language{fill:#1f2328}.percentage,.note{fill:#656d76}.track{fill:#eaeef2}.divider{stroke:#d8dee4}}</style><rect class="card" x="0.5" y="0.5" width="899" height="${height - 1}" rx="12"/><text class="title" x="28" y="38">Top Languages</text><line class="divider" x1="28" y1="55" x2="872" y2="55"/>${rows}<text class="note" x="28" y="${height - 18}">Aggregated from language data in public, owned, non-fork repositories</text></svg>`;
+              return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="${height}" viewBox="0 0 900 ${height}" role="img" aria-labelledby="title desc"><title id="title">Most used languages</title><desc id="desc">Top languages by bytes across public non-fork repositories.</desc><style>.card{fill:#0d1117;stroke:#30363d}.title{fill:#f0f6fc;font:600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.language{fill:#c9d1d9;font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.percentage,.note{fill:#8b949e;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.track{fill:#21262d}.bar{fill:#2f81f7}.divider{stroke:#21262d}@media (prefers-color-scheme: light){.card{fill:#fff;stroke:#d0d7de}.title,.language{fill:#1f2328}.percentage,.note{fill:#656d76}.track{fill:#eaeef2}.divider{stroke:#d8dee4}}</style><rect class="card" x="0.5" y="0.5" width="899" height="${height-1}" rx="12"/><text class="title" x="28" y="38">Top Languages</text><line class="divider" x1="28" y1="55" x2="872" y2="55"/>${rows}<text class="note" x="28" y="${height-18}">Aggregated from GitHub language data in public, owned, non-fork repositories</text></svg>`;
             }
 
             fs.mkdirSync(path.join(process.cwd(), 'profile'), { recursive: true });
@@ -118,13 +122,15 @@ jobs:
             fs.writeFileSync('profile/badge-repos.svg', badge('public repos', publicRepos, 142, 94));
             fs.writeFileSync('profile/badge-stars.svg', badge('stars earned', stars, 128, 82));
             fs.writeFileSync('profile/badge-followers.svg', badge('followers', followers, 126, 80));
+            fs.writeFileSync('profile/badge-prs.svg', badge('pull requests', pullRequests, 142, 92));
+            fs.writeFileSync('profile/badge-merged.svg', badge('merged PRs', mergedPullRequests, 138, 88));
 
       - name: Commit refreshed stats when changed
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/github-stats.svg profile/github-languages.svg profile/badge-repos.svg profile/badge-stars.svg profile/badge-followers.svg
+          git add profile/*.svg
           if git diff --cached --quiet; then
             echo "Profile stats are already current."
           else
