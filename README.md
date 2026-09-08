@@ -21,6 +21,12 @@
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/Nischhalsubba?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nischhalsubba?style=flat-square&label=GitHub%20followers" alt="Nischhal Raj Subba's GitHub followers">
+  </a>
+</p>
+
 </div>
 
 <a href="https://nischhalsubba.com.np/">
@@ -33,6 +39,7 @@
 
 <p align="center">
   <a href="#featured-work"><kbd>Featured Work</kbd></a>
+  <a href="#github-activity"><kbd>GitHub Activity</kbd></a>
   <a href="#capabilities"><kbd>Capabilities</kbd></a>
   <a href="#proof-of-practice"><kbd>Proof</kbd></a>
   <a href="#writing"><kbd>Writing</kbd></a>
@@ -99,6 +106,17 @@ My portfolio and writing platform, connecting product design case studies, UX th
 <p align="right">
   <a href="https://github.com/Nischhalsubba?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nischhalsubba&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="Nischhal Raj Subba's GitHub activity statistics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischhalsubba&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages across Nischhal Raj Subba's public GitHub repositories">
+</p>
+
+<sub>GitHub cards are generated from public repository activity and may not represent private work or every professional contribution.</sub>
 
 ---
 
