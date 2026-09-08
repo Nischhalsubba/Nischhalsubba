@@ -1,0 +1,64 @@
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Uxcel design achievements</title>
+  <desc id="desc">Uxcel Hall of Fame, verified UI Designer certification, mentor status, learning activity, and selected achievements for Nischhal Raj Subba.</desc>
+  <defs>
+    <linearGradient id="accent" x1="80" y1="30" x2="820" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F36DB7"/>
+      <stop offset="0.48" stop-color="#8A63FF"/>
+      <stop offset="1" stop-color="#4CA8FF"/>
+    </linearGradient>
+    <linearGradient id="cardGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8A63FF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#4CA8FF" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .bg{fill:#0D1117;stroke:#30363D}.panel{fill:#111722;stroke:#2E3747}.eyebrow{fill:#8B949E;font:700 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:2px}.title{fill:#F0F6FC;font:700 19px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.big{fill:#F0F6FC;font:800 26px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.label{fill:#C9D1D9;font:600 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.meta{fill:#8B949E;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.pill{fill:#151C27;stroke:#323C4E}.pilltext{fill:#B8C1D0;font:600 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.accent{fill:url(#accent)}
+    @media(prefers-color-scheme:light){.bg{fill:#FFFFFF;stroke:#D0D7DE}.panel{fill:#F6F8FA;stroke:#D8DEE4}.title,.big{fill:#1F2328}.label{fill:#3D444D}.eyebrow,.meta{fill:#656D76}.pill{fill:#FFFFFF;stroke:#D0D7DE}.pilltext{fill:#4B5563}}
+  </style>
+
+  <rect class="bg" x="0.5" y="0.5" width="899" height="299" rx="18"/>
+  <text class="eyebrow" x="28" y="31">DESIGN CREDENTIALS · UXCEL</text>
+  <text class="title" x="28" y="57">Independent proof of design practice and continuous learning</text>
+  <rect x="744" y="24" width="128" height="34" rx="17" class="pill"/>
+  <text class="pilltext" x="808" y="45" text-anchor="middle">VIEW PROFILE ↗</text>
+
+  <g transform="translate(28 82)">
+    <rect class="panel" width="196" height="112" rx="14" fill="url(#cardGlow)"/>
+    <circle cx="28" cy="29" r="12" fill="url(#accent)"/>
+    <text class="big" x="22" y="70">2023</text>
+    <text class="label" x="22" y="92">Uxcel Hall of Fame</text>
+  </g>
+
+  <g transform="translate(240 82)">
+    <rect class="panel" width="196" height="112" rx="14"/>
+    <circle cx="28" cy="29" r="12" fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <text class="big" x="22" y="70">Verified</text>
+    <text class="label" x="22" y="92">UI Designer · to Jan 2027</text>
+  </g>
+
+  <g transform="translate(452 82)">
+    <rect class="panel" width="196" height="112" rx="14"/>
+    <path d="M20 29h16M28 21v16" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <text class="big" x="22" y="70">Mentor</text>
+    <text class="label" x="22" y="92">Product Designer</text>
+  </g>
+
+  <g transform="translate(664 82)">
+    <rect class="panel" width="208" height="112" rx="14"/>
+    <rect x="19" y="20" width="18" height="18" rx="5" fill="url(#accent)"/>
+    <text class="big" x="22" y="70">286.6k</text>
+    <text class="label" x="22" y="92">Total learning pixels</text>
+  </g>
+
+  <g transform="translate(28 216)">
+    <rect class="pill" width="190" height="42" rx="21"/>
+    <text class="pilltext" x="95" y="26" text-anchor="middle">34 COURSE CERTIFICATES</text>
+    <rect class="pill" x="204" width="152" height="42" rx="21"/>
+    <text class="pilltext" x="280" y="26" text-anchor="middle">148 BEST STREAK</text>
+    <rect class="pill" x="370" width="172" height="42" rx="21"/>
+    <text class="pilltext" x="456" y="26" text-anchor="middle">5× UXCEL CERTIFIED</text>
+    <rect class="pill" x="556" width="210" height="42" rx="21"/>
+    <text class="pilltext" x="661" y="26" text-anchor="middle">PROJECT MASTER · CRITIC</text>
+  </g>
+</svg>
