@@ -56,6 +56,31 @@ jobs:
             ]);
             const mergeRate = pullRequests ? (mergedPullRequests / pullRequests) * 100 : 0;
 
+            const to = new Date();
+            const from = new Date(to);
+            from.setUTCDate(from.getUTCDate() - 364);
+            const contributionData = await github.graphql(`
+              query($login: String!, $from: DateTime!, $to: DateTime!) {
+                user(login: $login) {
+                  contributionsCollection(from: $from, to: $to) {
+                    contributionCalendar {
+                      totalContributions
+                      weeks {
+                        contributionDays {
+                          contributionCount
+                          date
+                          weekday
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `, { login: username, from: from.toISOString(), to: to.toISOString() });
+            const calendar = contributionData.user.contributionsCollection.contributionCalendar;
+            const contributionWeeks = calendar.weeks || [];
+            const yearContributions = calendar.totalContributions || 0;
+
             const languageBytes = new Map();
             for (const repo of owned) {
               try {
@@ -116,9 +141,54 @@ jobs:
               return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="${height}" viewBox="0 0 900 ${height}" role="img" aria-labelledby="title desc"><title id="title">Most used languages</title><desc id="desc">Top languages by bytes across public non-fork repositories.</desc><style>.card{fill:#0d1117;stroke:#30363d}.title{fill:#f0f6fc;font:600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.language{fill:#c9d1d9;font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.percentage,.note{fill:#8b949e;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.track{fill:#21262d}.bar{fill:#2f81f7}.divider{stroke:#21262d}@media (prefers-color-scheme: light){.card{fill:#fff;stroke:#d0d7de}.title,.language{fill:#1f2328}.percentage,.note{fill:#656d76}.track{fill:#eaeef2}.divider{stroke:#d8dee4}}</style><rect class="card" x="0.5" y="0.5" width="899" height="${height-1}" rx="12"/><text class="title" x="28" y="38">Top Languages</text><line class="divider" x1="28" y1="55" x2="872" y2="55"/>${rows}<text class="note" x="28" y="${height-18}">Aggregated from GitHub language data in public, owned, non-fork repositories</text></svg>`;
             }
 
+            function contributionGraph(weeks, total) {
+              const cell = 11;
+              const gap = 3;
+              const startX = 70;
+              const startY = 72;
+              const width = 900;
+              const height = 205;
+              const max = Math.max(1, ...weeks.flatMap((week) => week.contributionDays.map((day) => day.contributionCount || 0)));
+              const shade = (count) => {
+                if (!count) return '#161b22';
+                const ratio = count / max;
+                if (ratio <= .25) return '#0e4429';
+                if (ratio <= .5) return '#006d32';
+                if (ratio <= .75) return '#26a641';
+                return '#39d353';
+              };
+              const cells = weeks.map((week, wi) => week.contributionDays.map((day) => {
+                const x = startX + wi * (cell + gap);
+                const y = startY + (day.weekday || 0) * (cell + gap);
+                return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${shade(day.contributionCount || 0)}"><title>${escapeXml(day.date)}: ${day.contributionCount || 0} contributions</title></rect>`;
+              }).join('')).join('');
+              return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title desc"><title id="title">Contribution activity</title><desc id="desc">GitHub contributions across the last 365 days.</desc><style>.card{fill:#0d1117;stroke:#30363d}.title{fill:#f0f6fc;font:600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.meta,.day{fill:#8b949e;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}@media(prefers-color-scheme:light){.card{fill:#fff;stroke:#d0d7de}.title{fill:#1f2328}.meta,.day{fill:#656d76}}</style><rect class="card" x="0.5" y="0.5" width="899" height="204" rx="12"/><text class="title" x="28" y="38">Contribution Activity · Last 365 Days</text><text class="meta" x="872" y="38" text-anchor="end">${total.toLocaleString()} contributions</text><text class="day" x="28" y="84">Mon</text><text class="day" x="28" y="126">Wed</text><text class="day" x="28" y="168">Fri</text>${cells}<text class="meta" x="28" y="190">Generated from GitHub's contribution calendar and stored in this repository</text></svg>`;
+            }
+
+            function milestonesCard() {
+              const milestones = [
+                { icon: 'PR', title: 'PR Powerhouse', detail: `${mergedPullRequests.toLocaleString()} merged`, active: mergedPullRequests >= 500 },
+                { icon: '90%', title: 'High Merge Rate', detail: `${mergeRate.toFixed(1)}% merged`, active: mergeRate >= 90 },
+                { icon: '50+', title: 'Builder', detail: `${publicRepos} public repos`, active: publicRepos >= 50 },
+                { icon: '365', title: 'Active Year', detail: `${yearContributions.toLocaleString()} contributions`, active: yearContributions >= 365 },
+                { icon: '10+', title: 'Community', detail: `${followers} followers`, active: followers >= 10 },
+                { icon: 'UX', title: 'Design + Code', detail: `${topLanguages.length} top languages`, active: topLanguages.length >= 4 },
+              ];
+              const cards = milestones.map((m, i) => {
+                const x = 28 + (i % 3) * 282;
+                const y = 70 + Math.floor(i / 3) * 112;
+                const border = m.active ? '#58a6ff' : '#30363d';
+                const iconFill = m.active ? '#58a6ff' : '#8b949e';
+                return `<g transform="translate(${x} ${y})"><rect width="258" height="88" rx="10" fill="#161b22" stroke="${border}"/><circle cx="38" cy="44" r="22" fill="#0d1117" stroke="${border}"/><text x="38" y="49" text-anchor="middle" fill="${iconFill}" font-size="12" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">${escapeXml(m.icon)}</text><text x="76" y="35" fill="#f0f6fc" font-size="14" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">${escapeXml(m.title)}</text><text x="76" y="57" fill="#8b949e" font-size="11" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">${escapeXml(m.detail)}</text></g>`;
+              }).join('');
+              return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="315" viewBox="0 0 900 315" role="img" aria-labelledby="title desc"><title id="title">Public GitHub milestones</title><desc id="desc">Milestone cards calculated from public GitHub activity.</desc><style>.card{fill:#0d1117;stroke:#30363d}.title{fill:#f0f6fc;font:600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.note{fill:#8b949e;font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}@media(prefers-color-scheme:light){.card{fill:#fff;stroke:#d0d7de}.title{fill:#1f2328}.note{fill:#656d76}}</style><rect class="card" x="0.5" y="0.5" width="899" height="314" rx="12"/><text class="title" x="28" y="38">Public GitHub Milestones</text>${cards}<text class="note" x="28" y="297">Self-hosted milestone cards based on public GitHub data · not official GitHub achievements</text></svg>`;
+            }
+
             fs.mkdirSync(path.join(process.cwd(), 'profile'), { recursive: true });
             fs.writeFileSync('profile/github-stats.svg', stats);
             fs.writeFileSync('profile/github-languages.svg', languageCard(topLanguages));
+            fs.writeFileSync('profile/github-contributions.svg', contributionGraph(contributionWeeks, yearContributions));
+            fs.writeFileSync('profile/github-milestones.svg', milestonesCard());
             fs.writeFileSync('profile/badge-repos.svg', badge('public repos', publicRepos, 142, 94));
             fs.writeFileSync('profile/badge-stars.svg', badge('stars earned', stars, 128, 82));
             fs.writeFileSync('profile/badge-followers.svg', badge('followers', followers, 126, 80));
