@@ -1,0 +1,22 @@
+<svg width="420" height="220" viewBox="0 0 420 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Product design principle</title>
+  <desc id="desc">A dark editorial card highlighting the principle: Make complexity easier to reason about.</desc>
+  <defs>
+    <linearGradient id="bg" x1="20" y1="18" x2="400" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11182B"/>
+      <stop offset="1" stop-color="#1B1740"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="36" y1="22" x2="344" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F35DA8"/>
+      <stop offset="0.48" stop-color="#8A63FF"/>
+      <stop offset="1" stop-color="#4CA8FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="418" height="218" rx="24" fill="url(#bg)" stroke="#313A55"/>
+  <text x="30" y="34" fill="url(#accent)" font-family="Georgia, serif" font-size="42" font-weight="700">“</text>
+  <text x="34" y="82" fill="#F6F8FC" font-family="Georgia, serif" font-size="25" font-style="italic">Make complexity</text>
+  <text x="34" y="116" fill="#F6F8FC" font-family="Georgia, serif" font-size="25" font-style="italic">easier to reason about.</text>
+  <line x1="34" y1="150" x2="386" y2="150" stroke="#FFFFFF" stroke-opacity="0.11"/>
+  <text x="34" y="179" fill="#9DA8BB" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">PRODUCT DESIGN PRINCIPLE</text>
+  <text x="34" y="200" fill="#77839A" font-family="Arial, sans-serif" font-size="11">Clarity · Systems · Delivery</text>
+</svg>
