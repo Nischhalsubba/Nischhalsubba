@@ -132,20 +132,16 @@ My portfolio and writing platform, connecting product design case studies, UX th
 ### Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nischhalsubba&theme=github-compact&hide_border=true&area=true" alt="Nischhal Raj Subba's GitHub contribution activity graph">
-  </a>
+  <img width="100%" src="./profile/github-contributions.svg" alt="Nischhal Raj Subba's GitHub contribution activity graph">
 </p>
 
-### GitHub Trophies
+### Public GitHub Milestones
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nischhalsubba&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="Nischhal Raj Subba's GitHub profile trophies">
-  </a>
+  <img width="100%" src="./profile/github-milestones.svg" alt="Nischhal Raj Subba's public GitHub milestones">
 </p>
 
-<sub>Core metrics and language cards are stored in this repository and refreshed automatically from GitHub's API. Streak, contribution graph, and trophy widgets are external live embeds; temporary upstream outages can affect those three widgets. Public figures do not include private professional work.</sub>
+<sub>Core metrics, language stats, contribution graph, badges, and milestone cards are stored in this repository and refreshed automatically from GitHub's API. The contribution streak is the only external live widget in this section. Public figures do not include private professional work.</sub>
 
 ---
 
