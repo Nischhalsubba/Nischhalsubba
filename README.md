@@ -115,7 +115,11 @@ My portfolio and writing platform, connecting product design case studies, UX th
   <img width="100%" src="./profile/github-stats.svg" alt="Nischhal Raj Subba's GitHub activity statistics">
 </p>
 
-<sub>The stats card and badges are stored in this repository and refreshed automatically from GitHub's API. Public figures do not include private professional work.</sub>
+<p align="center">
+  <img width="100%" src="./profile/github-languages.svg" alt="Most used languages across Nischhal Raj Subba's public repositories">
+</p>
+
+<sub>The stats, badges, and language card are stored in this repository and refreshed automatically from GitHub's API. Public figures do not include private professional work.</sub>
 
 ---
 
