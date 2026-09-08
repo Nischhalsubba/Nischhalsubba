@@ -4,7 +4,7 @@
 
 ### Senior Product Designer · Kathmandu, Nepal · SaaS, Fintech & Web3 · Design Systems
 
-**I turn complex workflows into clear, trustworthy products that teams can actually ship.**
+**I turn complicated product logic into clear interfaces, reusable systems, and implementation-ready product decisions.**
 
 <p>
   <a href="https://nischhalsubba.com.np/">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Nischhal Raj Subba on LinkedIn">
   </a>
   <a href="https://app.uxcel.com/ux/nischhal">
-    <img src="https://img.shields.io/badge/Uxcel-Mentor%20%26%20Hall%20of%20Fame-6457FF?style=for-the-badge" alt="View Nischhal Raj Subba on Uxcel">
+    <img src="https://img.shields.io/badge/Uxcel-Product%20Design-6457FF?style=for-the-badge" alt="View Nischhal Raj Subba on Uxcel">
   </a>
   <a href="mailto:hinischalsubba@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nischhal Raj Subba">
@@ -34,7 +34,7 @@
 <p align="center">
   <a href="#featured-work"><kbd>Featured Work</kbd></a>
   <a href="#capabilities"><kbd>Capabilities</kbd></a>
-  <a href="#proof"><kbd>Proof</kbd></a>
+  <a href="#proof-of-practice"><kbd>Proof</kbd></a>
   <a href="#writing"><kbd>Writing</kbd></a>
   <a href="#contact"><kbd>Contact</kbd></a>
 </p>
@@ -43,15 +43,15 @@
 
 ## About
 
-I am **Nischhal Raj Subba, a Senior Product Designer based in Kathmandu, Nepal, with 6+ years of experience** working across SaaS, fintech, Web3, enterprise software, dashboards, operations tools, data-heavy products, and design systems.
+I am **Nischhal Raj Subba, a Senior Product Designer based in Kathmandu, Nepal**, working across SaaS, fintech, Web3, enterprise software, dashboards, operations tools, data-heavy products, and design systems.
 
 My strongest work sits where products get complicated: **multi-role workflows, permissions, dense information, high-trust interactions, system states, reusable components, and design-to-engineering handoff**.
 
 I work across product strategy, UX research, information architecture, interaction design, accessible UI, prototyping, design systems, and implementation-aware delivery. Front-end knowledge helps me make decisions that are practical to build, easier to document, and more resilient once shipped.
 
-My canonical portfolio and writing home is **[nischhalsubba.com.np](https://nischhalsubba.com.np/)**.
+**Canonical portfolio and writing:** [nischhalsubba.com.np](https://nischhalsubba.com.np/)
 
-> **Positioning:** complex SaaS and fintech products, scalable design systems, and stronger continuity between design intent and implementation.
+> **Positioning:** complex product workflows, scalable design systems, and stronger continuity between design intent and implementation.
 
 ---
 
@@ -90,7 +90,7 @@ A Nepal-focused land measurement product shaped around local terminology, practi
 ### [nischhalsubba.com.np](https://github.com/Nischhalsubba/nischhalsubba.com.np)
 **Portfolio · Product storytelling · Front-end implementation**
 
-My portfolio and writing platform, connecting product design case studies, UX thinking, visual systems, and implementation work.
+My portfolio and writing platform, connecting product design case studies, UX thinking, visual systems, accessibility, and implementation work.
 
 </td>
 </tr>
@@ -112,13 +112,12 @@ My portfolio and writing platform, connecting product design case studies, UX th
 
 ---
 
-## Proof
+## Proof of Practice
 
-- **6+ years** across product design, UX, systems, and implementation-aware delivery.
-- **Uxcel Mentor and Hall of Fame presence**, adding independent validation beyond self-owned portfolio claims.
-- Experience across **SaaS, fintech, Web3, enterprise software, dashboards, LMS, logistics, and operations products**.
-- Public work spanning **design systems, accessibility, front-end collaboration, data-heavy UX, and production-oriented tooling**.
-- Long-running GitHub footprint showing both product-design thinking and hands-on implementation literacy.
+- Public case studies and product work across **SaaS, fintech, Web3, enterprise software, dashboards, and operations products**.
+- Public repositories spanning **design systems, accessibility, front-end collaboration, data-heavy UX, and production-oriented tooling**.
+- A visible **Uxcel product-design learning and community footprint** alongside self-owned portfolio work.
+- Hands-on implementation literacy that helps connect **Figma decisions, component behavior, responsive rules, accessibility, and production QA**.
 
 ---
 
@@ -138,7 +137,7 @@ My portfolio and writing platform, connecting product design case studies, UX th
 
 <div align="center">
 
-### Let us make complex products easier to understand.
+### Make complex products easier to understand.
 
 <p>
   <a href="https://nischhalsubba.com.np/">
@@ -152,6 +151,6 @@ My portfolio and writing platform, connecting product design case studies, UX th
   </a>
 </p>
 
-**[Portfolio](https://nischhalsubba.com.np/)** · **[Behance](https://www.behance.net/nischhal)** · **[Dribbble](https://dribbble.com/Nischhal)** · **[LinkedIn](https://www.linkedin.com/in/nischhal)** · **[Uxcel](https://app.uxcel.com/ux/nischhal)** · **[X](https://x.com/imnischhal)**
+**[Portfolio](https://nischhalsubba.com.np/)** · **[LinkedIn](https://www.linkedin.com/in/nischhal)** · **[Uxcel](https://app.uxcel.com/ux/nischhal)**
 
 </div>
