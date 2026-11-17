@@ -114,6 +114,11 @@ I work across **product strategy, UX research, information architecture, interac
 
 ---
 
+### Public tools
+
+- **[BindForge NW](https://github.com/Nischhalsubba/BindForge-NW)** — local-first Neverwinter keybind workbench with key capture, conflict review, and reversible command exports. [Try the app](https://neverwinterkeybind.netlify.app).
+- **[Nepal Work Atlas](https://github.com/Nischhalsubba/Nepal-Work-Atlas)** — Nepal labor-market data explorer that separates official employment statistics from individually verified hiring evidence.
+
 ## Design Credentials
 
 <a href="https://app.uxcel.com/ux/nischhal">
