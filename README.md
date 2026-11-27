@@ -146,7 +146,7 @@ I aim to make complex products easier to understand and use, balancing user need
 
 ### Professional certifications and recognition
 
-- Google UX Design Professional Certificate (Google / Coursera)
+- [Google UX Design Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/14PK4NP6DTRD) — Google / Coursera, June 2025
 - [Uxcel Product Designer](https://app.uxcel.com/certificates/XSXW99G6EE2R) — December 2024
 - [Uxcel UX Researcher](https://app.uxcel.com/certificates/LSF8UPX6EGN5) — December 2024
 - [Uxcel UI Designer](https://app.uxcel.com/certificates/I4YTY0556KCY) — January 2025
