@@ -27,7 +27,7 @@
 <tr>
 <td width="66%" valign="top">
 
-### Designing for products that get complicated
+### I turn complicated product logic into interfaces people can act on.
 
 I’m **Nischhal Raj Subba**, a Senior Product Designer based in Nepal with 7+ years of experience designing complex SaaS, fintech, Web3, and enterprise products. My strongest work sits where products stop being simple: **multi-role workflows, permissions, dense information, high-trust actions, system states, reusable patterns, and implementation constraints**.
 
@@ -144,18 +144,35 @@ I aim to make complex products easier to understand and use, balancing user need
   <a href="https://app.uxcel.com/ux/nischhal"><strong>Full Uxcel profile ↗</strong></a>
 </p>
 
-### Professional certifications and recognition
+### 01 — Recognition & community contribution
 
-- [Google UX Design Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/14PK4NP6DTRD) — Google / Coursera, June 2025
-- [Uxcel Product Designer](https://app.uxcel.com/certificates/XSXW99G6EE2R) — December 2024
-- [Uxcel UX Researcher](https://app.uxcel.com/certificates/LSF8UPX6EGN5) — December 2024
-- [Uxcel UI Designer](https://app.uxcel.com/certificates/I4YTY0556KCY) — January 2025
-- [Uxcel UX Designer](https://app.uxcel.com/certificates/DKNOJSV20WQ7) — December 2024
-- [Uxcel UX Writer](https://app.uxcel.com/certificates/S9YU2TUDMMT1) — January 2025
-- IBM Enterprise Design Thinking Co-Creator
-- [Uxcel Hall of Fame](https://uxcel.com/designer-rankings/past-winners) — Product Designer (2023)
-- #1 Designer — Uxcel Global Rankings 2024 (résumé record)
-- [Uxcel 2026 skill-based leaderboard](https://uxcel.com/uxcel-rankings) — #1, 90/100, observed 27 November 2026; rankings change over time.
+| Achievement | Evidence |
+| --- | --- |
+| **#1 Product Designer — Uxcel 2024 annual rankings** | [Issuer verification record](https://github.com/Nischhalsubba/nischhalsubba.com.np/blob/1ab20f3a3a96fb060ebdf12a93e730e5365639f8/reports/portfolio-v6/continuation-2026-11-06/uxcel-2024-issuer-verification.json) |
+| **#1 All Designers — Uxcel 2024 annual rankings** | [Issuer verification record](https://github.com/Nischhalsubba/nischhalsubba.com.np/blob/1ab20f3a3a96fb060ebdf12a93e730e5365639f8/reports/portfolio-v6/continuation-2026-11-06/uxcel-2024-issuer-verification.json) |
+| **2023 Top 10 Product Designer / Hall of Fame** | [Official Hall of Fame](https://uxcel.com/designer-rankings/past-winners) |
+| **Uxcel Mentor — 100 community reviews** | Milestone recognized April 2025 · [Uxcel profile](https://app.uxcel.com/ux/nischhal) |
+
+Annual awards are historical achievements, not permanent or current leaderboard positions. [Explore the live Uxcel rankings](https://uxcel.com/uxcel-rankings).
+
+### 02 — Professional certifications
+
+| Credential | Issued | Verification |
+| --- | --- | --- |
+| Google UX Design Professional Certificate | June 2025 | [Google / Coursera](https://www.coursera.org/account/accomplishments/specialization/14PK4NP6DTRD) |
+| Uxcel Product Designer | Dec 1, 2024 | [XSXW99G6EE2R](https://app.uxcel.com/certificates/XSXW99G6EE2R) |
+| Uxcel UX Researcher | Dec 10, 2024 | [LSF8UPX6EGN5](https://app.uxcel.com/certificates/LSF8UPX6EGN5) |
+| Uxcel UX Designer | Dec 2, 2024 | [DKNOJSV20WQ7](https://app.uxcel.com/certificates/DKNOJSV20WQ7) |
+| Uxcel UI Designer | Jan 23, 2025 | [I4YTY0556KCY](https://app.uxcel.com/certificates/I4YTY0556KCY) |
+| Uxcel UX Writer | Jan 21, 2025 | [S9YU2TUDMMT1](https://app.uxcel.com/certificates/S9YU2TUDMMT1) |
+
+### 03 — Continuing professional development
+
+- **IBM Enterprise Design Thinking:** Practitioner, Co-Creator and Team Essentials for AI — October 2024.
+- **Coursera:** professional certificate and 15 course accomplishments across Google, Microsoft, CalArts, University of Minnesota, Georgia Institute of Technology and Coursera Guided Projects.
+- **Uxcel:** Building Agile Teams, AI Prompts Foundations, Introduction to ChatGPT, AI Fundamentals for UX and Human-Centered AI.
+
+[Professional portfolio & case studies](https://nischhalsubba.com.np/)
 
 ### Toolkit
 
