@@ -29,7 +29,7 @@
 
 ### Designing for products that get complicated
 
-I’m **Nischhal Raj Subba**, a Senior Product Designer based in Kathmandu. My strongest work sits where products stop being simple: **multi-role workflows, permissions, dense information, high-trust actions, system states, reusable patterns, and implementation constraints**.
+I’m **Nischhal Raj Subba**, a Senior Product Designer based in Nepal with 7+ years of experience designing complex SaaS, fintech, Web3, and enterprise products. My strongest work sits where products stop being simple: **multi-role workflows, permissions, dense information, high-trust actions, system states, reusable patterns, and implementation constraints**.
 
 I work across **product strategy, UX research, information architecture, interaction design, accessible UI, prototyping, design systems, and design-to-engineering delivery**.
 
