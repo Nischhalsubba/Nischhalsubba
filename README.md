@@ -59,13 +59,16 @@ I work across **product strategy, UX research, information architecture, interac
 
 ## Professional background
 
-I’m Nischhal Raj Subba, a Senior Product Designer based in Nepal with 7+ years of experience designing scalable, accessible digital products across enterprise software, SaaS, fintech, Web3, mobile apps and product websites. My work spans discovery, UX research, product strategy, information architecture, interaction design, prototyping, design systems and implementation QA. I specialize in complex workflows, dashboards, role-based permissions, transaction states and reusable component architecture. I use Figma, IBM Carbon and frontend technologies including HTML, CSS, JavaScript, TypeScript and React to bridge design and engineering. My background in business management and professional development in Google UX Design, Uxcel UX research and IBM Enterprise Design Thinking informs my approach. I explore AI-assisted design, automation and design-to-code workflows, with a focus on clarity, accessibility and maintainability.
+My work spans enterprise software, B2B SaaS, fintech, Web3 and native mobile products. I collaborate with product managers, engineers and stakeholders from discovery through implementation review.
 
-My design approach begins with understanding user goals, business rules, decision points and technical constraints before visual exploration. I design for the complete experience: responsive behavior, validation, loading and empty states, error recovery, permissions and edge cases. I treat design systems as product infrastructure, using semantic tokens, reusable components, documented patterns and accessibility guidance to make complex interfaces coherent across modules.
+- **Product strategy and UX:** research, information architecture, interaction design, accessible interfaces, prototyping, validation and recovery journeys.
+- **Design systems and engineering:** Figma, IBM Carbon, semantic tokens, reusable components, responsive behavior and implementation QA. Frontend knowledge includes HTML, CSS, JavaScript, TypeScript and React.
+- **Selected experience:** enterprise software at Idealaya, Web3 product and website design at Mokshya Protocol, and UX leadership at Tegzy. Explore the [portfolio case studies](https://nischhalsubba.com.np/) for my specific contributions to each project.
+- **Education and credentials:** BA (Hons) Business Management, University of Wolverhampton; Google UX Design Professional Certificate; Uxcel UX Researcher certification; IBM Enterprise Design Thinking Co-Creator. Recognized in the [Uxcel Hall of Fame](https://uxcel.com/designer-rankings/past-winners).
+- **Continuing practice:** AI-assisted design, generative interfaces, design automation and design-to-code workflows.
 
-My experience includes enterprise product design at Idealaya, Web3 product and website design at Mokshya Protocol, and UX leadership at Tegzy. Selected work includes Yarsha (wallet-native messaging), piHub (financial workflows), Orkest HQ (modular SaaS), Masteriyo LMS and enterprise design systems. I collaborate with product managers, engineers and stakeholders throughout discovery, delivery and implementation review.
+I aim to make complex products easier to understand and use, balancing user needs, business objectives, accessibility, technical feasibility and maintainability. Open to remote senior and lead product design roles and selected collaborations.
 
-I am interested in senior and lead product design roles, remote international collaboration, and selected freelance projects involving complex digital products. My design philosophy is to make complexity easier to reason about, balancing user needs, commercial goals, technical feasibility and long-term maintainability.
 
 ## GitHub Activity
 
