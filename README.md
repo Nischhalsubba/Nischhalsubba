@@ -57,6 +57,16 @@ I work across **product strategy, UX research, information architecture, interac
 
 ---
 
+## Professional background
+
+I’m Nischhal Raj Subba, a Senior Product Designer based in Nepal with 7+ years of experience designing scalable, accessible digital products across enterprise software, SaaS, fintech, Web3, mobile apps and product websites. My work spans discovery, UX research, product strategy, information architecture, interaction design, prototyping, design systems and implementation QA. I specialize in complex workflows, dashboards, role-based permissions, transaction states and reusable component architecture. I use Figma, IBM Carbon and frontend technologies including HTML, CSS, JavaScript, TypeScript and React to bridge design and engineering. My background in business management and professional development in Google UX Design, Uxcel UX research and IBM Enterprise Design Thinking informs my approach. I explore AI-assisted design, automation and design-to-code workflows, with a focus on clarity, accessibility and maintainability.
+
+My design approach begins with understanding user goals, business rules, decision points and technical constraints before visual exploration. I design for the complete experience: responsive behavior, validation, loading and empty states, error recovery, permissions and edge cases. I treat design systems as product infrastructure, using semantic tokens, reusable components, documented patterns and accessibility guidance to make complex interfaces coherent across modules.
+
+My experience includes enterprise product design at Idealaya, Web3 product and website design at Mokshya Protocol, and UX leadership at Tegzy. Selected work includes Yarsha (wallet-native messaging), piHub (financial workflows), Orkest HQ (modular SaaS), Masteriyo LMS and enterprise design systems. I collaborate with product managers, engineers and stakeholders throughout discovery, delivery and implementation review.
+
+I am interested in senior and lead product design roles, remote international collaboration, and selected freelance projects involving complex digital products. My design philosophy is to make complexity easier to reason about, balancing user needs, commercial goals, technical feasibility and long-term maintainability.
+
 ## GitHub Activity
 
 <p align="center">
